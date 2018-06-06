@@ -8,11 +8,11 @@
 6,1498000.0,1390.0,1077.697842,3.0,2.0,522 Ruby St,Redwood City,CA,Coldwell Banker Residential Brokerage - Cupertino,5,14,2018
 7,1850000.0,3070.0,602.6058632,5.0,2.0,2228 Brewster Ave,Redwood City,CA,Pantano Properties,5,14,2018
 8,1598000.0,1410.0,1133.333333,3.0,2.0,32 Shaw Ct,Redwood City,CA,Coldwell Banker Residential Brokerage - Menlo Park,5,14,2018
-9,2498000.0,3210.0,778.1931463999998,4.0,4.0,2111 Brewster Ave,Redwood City,CA,Deleon Realty,5,14,2018
+9,2498000.0,3210.0,778.1931463999997,4.0,4.0,2111 Brewster Ave,Redwood City,CA,Deleon Realty,5,14,2018
 10,838000.0,1360.0,616.1764706,2.0,2.0,1324 Woodside Rd,Redwood City,CA,,5,14,2018
 11,1198000.0,1448.0,827.3480663,3.0,3.0,636 Bair Island Rd UNIT 306,Redwood City,CA,,5,14,2018
 12,1125000.0,1200.0,937.5,2.0,2.0,1603 Chelsea Way,Redwood City,CA,Coldwell Banker Residential Brokerage - San Mateo-Downtown,5,14,2018
-13,2250000.0,2580.0,872.0930232999998,3.0,4.0,1635 Maddux Dr,Redwood City,CA,Sequoia Realty Services,5,14,2018
+13,2250000.0,2580.0,872.0930232999997,3.0,4.0,1635 Maddux Dr,Redwood City,CA,Sequoia Realty Services,5,14,2018
 14,4895000.0,5430.0,901.4732965,5.0,5.0,65 Black Fox Way,Redwood City,CA,,5,14,2018
 15,1788000.0,2440.0,732.7868852000001,5.0,4.0,234 Santiago Ave,Redwood City,CA,RE/MAX Star Properties,5,14,2018
 16,1695888.0,1441.0,1176.8827199999996,3.0,3.0,659 Oak Ave,Redwood City,CA,Realty World - Hirsch & Associates,5,14,2018
@@ -23,11 +23,11 @@
 21,2198000.0,2010.0,1093.532338,2.0,2.0,863 Arlington Rd,Redwood City,CA,Coldwell Banker Residential Brokerage - Redwood City - San Carlos,5,14,2018
 22,1549000.0,1330.0,1164.661654,3.0,2.0,229 Topaz St,Redwood City,CA,Berkshire Hathaway Home Services California Realty,5,14,2018
 23,2750000.0,2530.0,1086.9565220000004,4.0,3.0,1773 Hull Ave,Redwood City,CA,,5,14,2018
-24,1649000.0,2370.0,695.7805907000002,3.0,3.0,270 Alameda De Las Pulgas,Redwood City,CA,Coldwell Banker Residential Brokerage - Palo Alto Downtown,5,14,2018
+24,1649000.0,2370.0,695.7805907000003,3.0,3.0,270 Alameda De Las Pulgas,Redwood City,CA,Coldwell Banker Residential Brokerage - Palo Alto Downtown,5,14,2018
 25,2498000.0,1280.0,1951.5625,2.0,1.0,2141 Mills Ave,Menlo Park,CA,Coldwell Banker Residential Brokerage - Los Altos,5,14,2018
 26,799000.0,800.0,998.75,1.0,1.0,2323 Eastridge Ave APT 513,Menlo Park,CA,Alain Pinel Realtors,5,14,2018
 27,2695000.0,2780.0,969.4244604,2.0,3.0,8 Mansion Ct # 722,Menlo Park,CA,,5,14,2018
-28,5295000.0,3337.0,1586.7545699999996,4.0,4.0,1797 Oakdell Dr,Menlo Park,CA,Coldwell Banker Residential Brokerage - Menlo Park,5,14,2018
+28,5295000.0,3337.0,1586.7545699999994,4.0,4.0,1797 Oakdell Dr,Menlo Park,CA,Coldwell Banker Residential Brokerage - Menlo Park,5,14,2018
 29,1688000.0,1533.0,1101.108937,2.0,2.0,2147 Avy Ave,Menlo Park,CA,,5,14,2018
 30,1800000.0,1180.0,1525.423729,3.0,2.0,1960 Santa Cruz Ave,Menlo Park,CA,,5,14,2018
 31,5198000.0,3700.0,1404.864865,4.0,5.0,1868 Valparaiso Ave,Menlo Park,CA,,5,14,2018
@@ -61,7 +61,7 @@
 59,3999888.0,3623.0,1104.026497,5.0,5.0,490 Loma Verde Ave,Palo Alto,CA,,5,14,2018
 60,2298000.0,1445.0,1590.311419,2.0,2.0,675 Kendall Ave,Palo Alto,CA,Coldwell Banker Residential Brokerage - Menlo Park,5,14,2018
 61,2298000.0,1034.0,2222.437137,2.0,1.0,519 Georgia Ave,Palo Alto,CA,Golden Gate Sotheby's International Realty,5,14,2018
-62,3190000.0,1851.0,1723.3927609999996,3.0,3.0,455 Oregon Ave,Palo Alto,CA,Valley Vine Realty,5,14,2018
+62,3190000.0,1851.0,1723.3927609999994,3.0,3.0,455 Oregon Ave,Palo Alto,CA,Valley Vine Realty,5,14,2018
 63,2649000.0,1421.0,1864.180155,3.0,2.0,3808 Corina Way,Palo Alto,CA,Cowperthwaite & Company,5,14,2018
 64,2300000.0,1257.0,1829.753381,3.0,1.0,3519 Laguna Ct,Palo Alto,CA,Pacific Union International Inc.,5,14,2018
 65,2490000.0,1362.0,1828.193833,3.0,2.0,3124 Genevieve Ct,Palo Alto,CA,Intero Real Estate Services,5,14,2018
@@ -76,8 +76,8 @@
 74,1898000.0,1302.0,1457.757296,3.0,2.0,2515 Mardell Way,Mountain View,CA,Sereno Group,5,14,2018
 75,200000.0,1262.0,158.4786054,2.0,2.0,1075 Space Park Way,Mountain View,CA,Advantage Homes,5,14,2018
 76,369000.0,1458.0,253.08641980000004,3.0,2.0,325 Sylvan Ave SPC 83,Mountain View,CA,Alliance Manufactured Homes,5,14,2018
-77,875000.0,978.0,894.6830266000002,2.0,2.0,500 W Middlefield Rd APT 37,Mountain View,CA,,5,14,2018
-78,1198000.0,1394.0,859.3974175000002,2.0,2.0,265 Sierra Vista Ave,Mountain View,CA,,5,14,2018
+77,875000.0,978.0,894.6830266000003,2.0,2.0,500 W Middlefield Rd APT 37,Mountain View,CA,,5,14,2018
+78,1198000.0,1394.0,859.3974175000003,2.0,2.0,265 Sierra Vista Ave,Mountain View,CA,,5,14,2018
 79,1840000.0,930.0,1978.494624,3.0,1.0,201 Granada Dr,Mountain View,CA,HomeCoin.com,5,14,2018
 80,1325000.0,1526.0,868.2830931,3.0,2.0,198 Central Ave,Mountain View,CA,Sereno Group,5,14,2018
 81,2095000.0,1203.0,1741.479634,3.0,1.0,1377 Todd St,Mountain View,CA,,5,14,2018
@@ -100,7 +100,7 @@
 98,2995000.0,2218.0,1350.3156,4.0,3.0,1816 Newcastle Dr,Los Altos,CA,Sereno Group,5,14,2018
 99,5880000.0,5600.0,1050.0,5.0,7.0,168 Loucks Ave,Los Altos,CA,,5,14,2018
 100,6495000.0,4300.0,1510.465116,5.0,5.0,290 Quinnhill Rd,Los Altos,CA,Sereno Group,5,14,2018
-101,1998000.0,1173.0,1703.3248079999996,3.0,2.0,11691 Par Ave,Los Altos,CA,,5,14,2018
+101,1998000.0,1173.0,1703.3248079999994,3.0,2.0,11691 Par Ave,Los Altos,CA,,5,14,2018
 102,2700000.0,2222.0,1215.121512,4.0,3.0,960 Parma Way,Los Altos,CA,,5,14,2018
 103,3998000.0,4283.0,933.4578566,5.0,4.0,737 Thorsen Ct,Los Altos,CA,,5,14,2018
 104,2700000.0,2222.0,1215.121512,4.0,3.0,Parma Way,Los Altos,CA,Alain Pinel Realtors,5,14,2018
@@ -108,19 +108,19 @@
 106,2975000.0,1953.0,1523.297491,4.0,3.0,1586 Ben Roe Dr,Los Altos,CA,Sterling Associates,5,14,2018
 107,3500000.0,2815.0,1243.339254,4.0,3.0,316 Blue Oak Ln,Los Altos,CA,,5,14,2018
 108,6998000.0,3148.0,2222.998729,4.0,4.0,762 Edgewood Ln,Los Altos,CA,,5,14,2018
-109,4988000.0,3580.0,1393.2960890000004,4.0,5.0,980 Golden Way,Los Altos,CA,,5,14,2018
+109,4988000.0,3580.0,1393.2960890000006,4.0,5.0,980 Golden Way,Los Altos,CA,,5,14,2018
 110,2500000.0,1468.0,1702.997275,3.0,2.0,22150 Cloverly Ct,Los Altos,CA,CENTURY 21 Hilltop,5,14,2018
 111,2998000.0,2195.0,1365.831435,4.0,3.0,520 Benvenue Ave,Los Altos,CA,,5,14,2018
 112,4998888.0,4450.0,1123.345618,5.0,6.0,780 S El Monte Ave,Los Altos,CA,Realty World - Alliance,5,14,2018
 113,3495000.0,3014.0,1159.588587,5.0,4.0,1468 Frontero Ave,Los Altos,CA,,5,14,2018
 114,2770000.0,1266.0,2187.993681,3.0,2.0,144 Marvin Ave,Los Altos,CA,,5,14,2018
 115,4200000.0,3346.0,1255.230126,4.0,5.0,1474 Topar Ave,Los Altos,CA,,5,14,2018
-116,7100000.0,5150.0,1378.6407769999996,6.0,8.0,1530 Arbor Ave,Los Altos,CA,,5,14,2018
+116,7100000.0,5150.0,1378.6407769999994,6.0,8.0,1530 Arbor Ave,Los Altos,CA,,5,14,2018
 117,3695000.0,3123.0,1183.1572210000004,5.0,4.0,1514 Kathy Ln,Los Altos,CA,Pertria,5,14,2018
 118,3695000.0,3378.0,1093.84251,3.0,5.0,10999 Terry Way,Los Altos,CA,Sereno Group,5,14,2018
 119,3198000.0,2681.0,1192.838493,4.0,3.0,11701 Putter Way,Los Altos,CA,Golden Gate Sotheby's International Realty,5,14,2018
 120,6800000.0,3985.0,1706.398996,5.0,4.0,830 Arroyo Rd,Los Altos,CA,Sereno Group,5,14,2018
-121,1350000.0,1576.0,856.5989847999998,2.0,4.0,755 Brewster Ave,Redwood City,CA,Midtown Realty,5,14,2018
+121,1350000.0,1576.0,856.5989847999997,2.0,4.0,755 Brewster Ave,Redwood City,CA,Midtown Realty,5,14,2018
 122,1479000.0,2162.0,684.0888067000002,4.0,2.0,855 Adams St,Redwood City,CA,Coldwell Banker Residential Brokerage - Los Gatos,5,14,2018
 123,13998000.0,7413.0,1888.30433,5.0,5.0,4174 Oak Hill Ave,Palo Alto,CA,,5,14,2018
 124,7988000.0,4448.0,1795.863309,5.0,4.0,1818 Bryant St,Palo Alto,CA,Deleon Realty,5,14,2018
@@ -210,10 +210,10 @@
 208,2998000.0,1680.0,1784.5238095238094,3.0,2.0,615 Woodland Ave,Menlo Park,CA,Lafosse Asset Management,6,5,2018
 209,3950000.0,2608.0,1514.5705521472394,4.0,4.0,2167 Gordon Ave,Menlo Park,CA,Coldwell Banker Residential Brokerage - Woodside,6,5,2018
 210,5988000.0,5526.0,1083.6047774158524,5.0,7.0,2312 Loma Prieta Ln,Menlo Park,CA,Deleon Realty,6,5,2018
-211,3500000.0,3030.0,1155.1155115511554,5.0,3.0,540 Encina Ave,Menlo Park,CA,Golden Gate Sotheby's International Realty,6,5,2018
+211,3500000.0,3030.0,1155.1155115511556,5.0,3.0,540 Encina Ave,Menlo Park,CA,Golden Gate Sotheby's International Realty,6,5,2018
 212,2695000.0,1280.0,2105.46875,2.0,2.0,338 Santa Monica Ave,Menlo Park,CA,Sereno Group,6,5,2018
-213,1895000.0,2220.0,853.6036036036037,2.0,3.0,1741 Stone Pine Ln,Menlo Park,CA,Alain Pinel Realtors,6,5,2018
-214,1499999.0,1230.0,1219.5113821138214,3.0,2.0,1223 Carlton Ave,Menlo Park,CA,Dean Adams Residential R.E.,6,5,2018
+213,1895000.0,2220.0,853.6036036036038,2.0,3.0,1741 Stone Pine Ln,Menlo Park,CA,Alain Pinel Realtors,6,5,2018
+214,1499999.0,1230.0,1219.5113821138216,3.0,2.0,1223 Carlton Ave,Menlo Park,CA,Dean Adams Residential R.E.,6,5,2018
 215,3795000.0,2680.0,1416.044776119403,3.0,3.0,15 Susan Gale Ct,Menlo Park,CA,,6,5,2018
 216,3942500.0,2818.0,1399.041873669269,5.0,4.0,101 Hillside Ave,Menlo Park,CA,Coldwell Banker Residential Brokerage - Menlo Park,6,5,2018
 217,4995000.0,4420.0,1130.0904977375565,3.0,5.0,927 Continental Dr,Menlo Park,CA,Coldwell Banker Residential Brokerage - Menlo Park,6,5,2018
@@ -268,12 +268,12 @@
 266,1680650.0,1674.0,1003.9725209080048,4.0,4.0,97 Fairchild Dr,Mountain View,CA,Taylor Morrison Services Inc,6,5,2018
 267,1352610.0,1122.0,1205.5347593582887,2.0,3.0,649 Cinnamon Cir,Mountain View,CA,Taylor Morrison Services Inc,6,5,2018
 268,998000.0,998.0,1000.0,2.0,2.0,905 W Middlefield Rd APT 909,Mountain View,CA,,6,5,2018
-269,285000.0,1455.0,195.87628865979383,3.0,2.0,1075 Space Park Way SPC 358,Mountain View,CA,Alliance Manufactured Homes,6,5,2018
+269,285000.0,1455.0,195.87628865979386,3.0,2.0,1075 Space Park Way SPC 358,Mountain View,CA,Alliance Manufactured Homes,6,5,2018
 270,998888.0,1199.0,833.1009174311928,2.0,2.0,13 Morning Sun Ct,Mountain View,CA,,6,5,2018
 271,229000.0,960.0,238.54166666666663,2.0,2.0,191 E El Camino Real SPC 299,Mountain View,CA,Pams Homes,6,5,2018
 272,999888.0,1206.0,829.094527363184,2.0,2.0,49 Showers Dr APT N168,Mountain View,CA,,6,5,2018
 273,2395000.0,2667.0,898.0127484064493,4.0,4.0,575 Boranda Ct,Mountain View,CA,Realty World - Kevin F. Garvey,6,5,2018
-274,1198000.0,1401.0,855.1034975017843,2.0,3.0,25 Sherland Ave # B,Mountain View,CA,,6,5,2018
+274,1198000.0,1401.0,855.1034975017842,2.0,3.0,25 Sherland Ave # B,Mountain View,CA,,6,5,2018
 275,1998000.0,1322.0,1511.3464447806355,3.0,2.0,1759 Begen Ave,Mountain View,CA,,6,5,2018
 276,2788000.0,2174.0,1282.4287028518859,5.0,4.0,1806 Limetree Ln,Mountain View,CA,,6,5,2018
 277,1195000.0,1236.0,966.8284789644013,2.0,3.0,446 Bedford Loop,Mountain View,CA,Coldwell Banker Residential Brokerage - Cupertino,6,5,2018
@@ -291,7 +291,7 @@
 289,128999.0,624.0,206.72916666666663,2.0,1.0,2855 Senter Rd SPC 41,San Jose,CA,Intero Real Estate Services,6,5,2018
 290,925000.0,1012.0,914.0316205533596,2.0,2.0,183 Del Medio Ave APT 302,Mountain View,CA,Sereno Group,6,5,2018
 291,1200000.0,1084.0,1107.0110701107012,3.0,2.0,98 Flynn Ave APT A,Mountain View,CA,,6,5,2018
-292,1970000.0,1053.0,1870.8452041785372,3.0,1.0,372 Farley St,Mountain View,CA,,6,5,2018
+292,1970000.0,1053.0,1870.8452041785367,3.0,1.0,372 Farley St,Mountain View,CA,,6,5,2018
 293,1970000.0,832.0,2367.788461538461,3.0,1.0,394 Farley St,Mountain View,CA,,6,5,2018
 294,748000.0,662.0,1129.9093655589124,1.0,1.0,505 Cypress Point Dr UNIT 94,Mountain View,CA,Better Homes and Gardens Real Estate J.F. Finnegan Realtors,6,5,2018
 295,1995000.0,1314.0,1518.2648401826486,3.0,2.0,1128 Phyllis Ave,Mountain View,CA,Sereno Group,6,5,2018
@@ -320,329 +320,775 @@
 318,2988000.0,763.0,3916.120576671036,2.0,1.0,600 Palm Ave,Los Altos,CA,Coldwell Banker Residential Brokerage - Los Altos,6,5,2018
 319,6800000.0,3985.0,1706.3989962358844,5.0,4.0,830 Arroyo Rd,Los Altos,CA,Sereno Group,6,5,2018
 320,3800000.0,3132.0,1213.2822477650066,3.0,3.0,1551 Julie Ln,Los Altos,CA,CENTURY 21 Lad Realty,6,5,2018
-0,3798000.0,4210.0,902.1377672209026,5.0,3.0,3863 Chatham Ct,Redwood City,CA,Coldwell Banker Residential Brokerage - San Mateo-Downtown,6,6,2018
-1,309000.0,1160.0,266.37931034482756,3.0,2.0,2053 E Bayshore Rd SPC 64,Redwood City,CA,Alliance Manufactured Homes,6,6,2018
-2,1395000.0,1300.0,1073.076923076923,3.0,2.0,998 Emerald Hill Rd,Redwood City,CA,NaN,6,6,2018
-3,1399000.0,1680.0,832.7380952380952,3.0,3.0,767 Roosevelt Ave,Redwood City,CA,"Dwell Realtors, Inc.",6,6,2018
-4,1798000.0,1953.0,920.6349206349206,3.0,2.0,450 Beresford Ave,Redwood City,CA,Coldwell Banker Residential Brokerage - Menlo Park,6,6,2018
-5,1287000.0,1280.0,1005.46875,3.0,2.0,1621 Alameda De Las Pulgas,Redwood City,CA,"Dwell Realtors, Inc.",6,6,2018
-6,799000.0,640.0,1248.4375,1.0,1.0,1 Vera Ct,Redwood City,CA,NaN,6,6,2018
-7,2195000.0,3400.0,645.5882352941177,4.0,4.0,300 E Oakwood Blvd,Redwood City,CA,Coldwell Banker Residential Brokerage - San Francisco Pacific Heights,6,6,2018
-8,1198000.0,1000.0,1198.0,2.0,1.0,1168 Adams St,Redwood City,CA,NaN,6,6,2018
-9,225000.0,504.0,446.42857142857144,1.0,1.0,1548 Maple St # 98,Redwood City,CA,Signature Realty & Mortgage,6,6,2018
-10,2188000.0,2276.0,961.3356766256591,4.0,4.0,2752 Kensington Rd,Redwood City,CA,KW Silicon City,6,6,2018
-11,1389998.0,1120.0,1241.0696428571428,3.0,1.0,128 Stanley St,Redwood City,CA,NaN,6,6,2018
-12,1818000.0,2180.0,833.9449541284404,3.0,2.0,2115 Harding Ave,Redwood City,CA,NaN,6,6,2018
-13,1699000.0,1510.0,1125.1655629139073,3.0,2.0,15 Winston Way,Redwood City,CA,Sereno Group,6,6,2018
-14,1150000.0,1720.0,668.6046511627907,3.0,2.0,327 Hemlock Ave,Redwood City,CA,NaN,6,6,2018
-15,2495000.0,2530.0,986.1660079051384,4.0,3.0,1773 Hull Ave,Redwood City,CA,NaN,6,6,2018
-16,2860000.0,3092.0,924.9676584734799,4.0,4.0,1745 Hull Ave,Redwood City,CA,NaN,6,6,2018
-17,1080000.0,930.0,1161.2903225806451,2.0,1.0,1402 Arguello St,Redwood City,CA,NaN,6,6,2018
-18,1395000.0,1280.0,1089.84375,3.0,2.0,319 San Carlos Ave,Redwood City,CA,NaN,6,6,2018
-19,2690000.0,3620.0,743.0939226519337,5.0,4.0,1742 Kansas St,Redwood City,CA,Coldwell Banker Residential Brokerage - Redwood City - San Carlos,6,6,2018
-20,1049000.0,1200.0,874.1666666666666,2.0,2.0,1603 Chelsea Way,Redwood City,CA,Coldwell Banker Residential Brokerage - San Mateo-Downtown,6,6,2018
-21,1329000.0,1320.0,1006.8181818181819,3.0,2.0,1703 Roosevelt Ave,Redwood City,CA,NaN,6,6,2018
-22,775000.0,2400.0,322.9166666666667,2.0,3.0,1548 Maple St # 107,Redwood City,CA,Signature Realty & Mortgage,6,6,2018
-23,1649000.0,1680.0,981.547619047619,3.0,2.0,717 Canyon Rd,Redwood City,CA,Zephyr Real Estate,6,6,2018
-0,2198000.0,2850.0,771.2280701754386,4.0,4.0,2602 Mcgarvey Ave,Redwood City,CA,Pacific Union International Inc.,6,6,2018
-2,2885000.0,2270.0,1270.9251101321586,3.0,3.0,28 Fulton St,Redwood City,CA,NaN,6,6,2018
-4,3159000.0,3200.0,987.1875,4.0,4.0,3723 Jefferson Ct,Redwood City,CA,NaN,6,6,2018
-7,1677950.0,2120.0,791.4858490566038,3.0,3.0,2105 Madison Ave,Redwood City,CA,Condor Commercial,6,6,2018
-8,1850000.0,1660.0,1114.4578313253012,3.0,2.0,132 Rutherford Ave,Redwood City,CA,Coldwell Banker Residential Brokerage - Woodside,6,6,2018
-9,4295000.0,7700.0,557.7922077922078,6.0,7.0,7 Colton Ct,Redwood City,CA,Coldwell Banker Residential Brokerage - Woodside,6,6,2018
-10,199900.0,1000.0,199.9,2.0,2.0,2053 E Bayshore Rd SPC 27,Redwood City,CA,Coldwell Banker C&C Properties,6,6,2018
-0,2075000.0,2235.0,928.4116331096197,3.0,3.0,4123 Fair Oaks Ave,Menlo Park,CA,Sereno Group,6,6,2018
-1,3950000.0,2608.0,1514.5705521472394,4.0,4.0,2167 Gordon Ave,Menlo Park,CA,Coldwell Banker Residential Brokerage - Woodside,6,6,2018
-2,3649000.0,2351.0,1552.1054870267972,4.0,4.0,36 Politzer Dr,Menlo Park,CA,NaN,6,6,2018
-3,1995000.0,1870.0,1066.8449197860962,4.0,2.0,204 Haight St,Menlo Park,CA,Sereno Group,6,6,2018
-4,799000.0,800.0,998.75,1.0,1.0,2323 Eastridge Ave APT 513,Menlo Park,CA,Alain Pinel Realtors,6,6,2018
-5,2998000.0,1680.0,1784.5238095238096,3.0,2.0,615 Woodland Ave,Menlo Park,CA,Lafosse Asset Management,6,6,2018
-6,7500000.0,5335.0,1405.8106841611996,5.0,7.0,785 Berkeley Ave,Menlo Park,CA,Pacific Union International Inc.,6,6,2018
-7,1699000.0,1740.0,976.4367816091954,3.0,3.0,2142 Sand Hill Rd,Menlo Park,CA,Today Sotheby's International Realty,6,6,2018
-8,2098000.0,1610.0,1303.1055900621118,3.0,2.0,484 Oconnor St,Menlo Park,CA,Golden Gate Sotheby's International Realty,6,6,2018
-9,3998000.0,2650.0,1508.6792452830189,4.0,3.0,1840 Oakdell Dr,Menlo Park,CA,NaN,6,6,2018
-10,2195000.0,1780.0,1233.1460674157304,4.0,2.0,220 Oakhurst Pl,Menlo Park,CA,NaN,6,6,2018
-11,3795000.0,2520.0,1505.952380952381,4.0,3.0,187 E Creek Dr,Menlo Park,CA,NaN,6,6,2018
-12,1799000.0,1513.0,1189.0284203569067,3.0,2.0,150 Alma St APT 215,Menlo Park,CA,Realty Source Incorporated,6,6,2018
-13,3499000.0,2150.0,1627.4418604651162,4.0,3.0,65 La Loma Dr,Menlo Park,CA,Coldwell Banker Residential Brokerage - Menlo Park,6,6,2018
-14,5375000.0,4240.0,1267.688679245283,4.0,4.0,5 Zachary Ct,Menlo Park,CA,Douglas Elliman,6,6,2018
-15,1688000.0,1661.0,1016.255267910897,2.0,2.0,2147 Avy Ave,Menlo Park,CA,NaN,6,6,2018
-16,1649000.0,2050.0,804.390243902439,2.0,2.0,112 Sand Hill Cir,Menlo Park,CA,Pacific Union International Inc.,6,6,2018
-0,1988000.0,2220.0,895.4954954954954,3.0,3.0,158 Buckthorn Way,Menlo Park,CA,Deleon Realty,6,6,2018
-1,799000.0,800.0,998.75,1.0,1.0,2323 Eastridge Ave,Menlo Park,CA,NaN,6,6,2018
-2,1190000.0,1140.0,1043.859649122807,3.0,1.0,1239 Madera Ave,Menlo Park,CA,GD Commercial,6,6,2018
-3,3250000.0,2311.0,1406.3176114236262,4.0,4.0,1980 Santa Cruz Ave,Menlo Park,CA,Today Sotheby's International Realty,6,6,2018
-4,5185000.0,3370.0,1538.5756676557864,5.0,4.0,1785 Croner Ave,Menlo Park,CA,NaN,6,6,2018
-5,7998000.0,6500.0,1230.4615384615386,6.0,9.0,1050 Louise St,Menlo Park,CA,NaN,6,6,2018
-6,2895000.0,1830.0,1581.967213114754,2.0,2.0,1709 Croner Ave,Menlo Park,CA,NaN,6,6,2018
-7,1735000.0,1820.0,953.2967032967033,2.0,3.0,1256 Sharon Park Dr,Menlo Park,CA,Coldwell Banker Residential Brokerage - Menlo Park,6,6,2018
-8,1650000.0,1860.0,887.0967741935484,2.0,2.0,1230 Sharon Park Dr APT 64,Menlo Park,CA,Pacific Union International Inc.,6,6,2018
-9,2999000.0,1850.0,1621.081081081081,2.0,2.0,1330 University Dr APT 81,Menlo Park,CA,Yaeger Residential Brokerage,6,6,2018
-10,3500000.0,3030.0,1155.1155115511551,5.0,3.0,540 Encina Ave,Menlo Park,CA,Golden Gate Sotheby's International Realty,6,6,2018
-11,7995000.0,5819.0,1373.9474136449562,7.0,8.0,2315 Crest Ln,Menlo Park,CA,NaN,6,6,2018
-12,2495000.0,2780.0,897.4820143884892,2.0,3.0,8 Mansion Ct # 722,Menlo Park,CA,NaN,6,6,2018
-13,4995000.0,4420.0,1130.0904977375565,3.0,5.0,927 Continental Dr,Menlo Park,CA,Coldwell Banker Residential Brokerage - Menlo Park,6,6,2018
-14,1800000.0,1180.0,1525.4237288135594,3.0,2.0,1960 Santa Cruz Ave,Menlo Park,CA,NaN,6,6,2018
-15,4998000.0,3700.0,1350.8108108108108,4.0,5.0,1868 Valparaiso Ave,Menlo Park,CA,NaN,6,6,2018
-16,3798000.0,2591.0,1465.8433037437283,4.0,4.0,2098 Manzanita Ave,Menlo Park,CA,Coldwell Banker Residential Brokerage - Menlo Park,6,6,2018
-17,4488000.0,3313.0,1354.6634470268639,5.0,5.0,1180 Cloud Ave,Menlo Park,CA,Golden Gate Sotheby's International Realty,6,6,2018
-18,2695000.0,1280.0,2105.46875,2.0,2.0,338 Santa Monica Ave,Menlo Park,CA,Sereno Group,6,6,2018
-19,2998000.0,1540.0,1946.7532467532467,3.0,2.0,621 Arbor Rd,Menlo Park,CA,NaN,6,6,2018
-20,1499999.0,1230.0,1219.5113821138211,3.0,2.0,1223 Carlton Ave,Menlo Park,CA,Dean Adams Residential R.E.,6,6,2018
-21,3495000.0,3717.0,940.2744148506861,5.0,4.0,530 Palmer Ln,Menlo Park,CA,RE/MAX Star Properties,6,6,2018
-22,1895000.0,2220.0,853.6036036036036,2.0,3.0,1741 Stone Pine Ln,Menlo Park,CA,Alain Pinel Realtors,6,6,2018
-23,3942500.0,2818.0,1399.041873669269,5.0,4.0,101 Hillside Ave,Menlo Park,CA,Coldwell Banker Residential Brokerage - Menlo Park,6,6,2018
-24,4995000.0,4198.0,1189.8523106241066,5.0,5.0,1045 College Ave,Menlo Park,CA,NaN,6,6,2018
-0,5550000.0,4304.0,1289.4981412639406,5.0,5.0,5 Lassen Ct,Menlo Park,CA,Deleon Realty,6,6,2018
-1,4995000.0,4340.0,1150.921658986175,3.0,3.0,1020 Monte Rosa Dr,Menlo Park,CA,Martin & Martin,6,6,2018
-0,3488000.0,2910.0,1198.6254295532647,3.0,3.0,583 Patricia Ln,Palo Alto,CA,Deleon Realty,6,6,2018
-1,1788000.0,1329.0,1345.372460496614,3.0,2.0,433 Monroe Dr,Palo Alto,CA,Deleon Realty,6,6,2018
-2,1795000.0,1329.0,1350.6395786305493,3.0,2.0,3931 Park Blvd,Palo Alto,CA,Coldwell Banker Residential Brokerage - Menlo Park,6,6,2018
-3,2998000.0,2298.0,1304.6127067014795,4.0,3.0,633 Channing Ave,Palo Alto,CA,NaN,6,6,2018
-4,1888888.0,1337.0,1412.7808526551983,3.0,2.0,325 Fernando Ave,Palo Alto,CA,NaN,6,6,2018
-5,3999888.0,3178.0,1258.6179987413468,5.0,5.0,490 Loma Verde Ave,Palo Alto,CA,NaN,6,6,2018
-6,2589000.0,897.0,2886.28762541806,2.0,1.0,128 Middlefield Rd,Palo Alto,CA,NaN,6,6,2018
-7,3898000.0,2625.0,1484.952380952381,4.0,4.0,3687 Bryant St,Palo Alto,CA,NaN,6,6,2018
-8,6395000.0,3416.0,1872.0725995316159,5.0,5.0,161 Bryant St,Palo Alto,CA,Golden Gate Sotheby's International Realty,6,6,2018
-9,2798000.0,1754.0,1595.2109464082098,4.0,2.0,3519 Ross Rd,Palo Alto,CA,NaN,6,6,2018
-10,10888000.0,6068.0,1794.3309162821358,7.0,7.0,1565 Edgewood Dr,Palo Alto,CA,Deleon Realty,6,6,2018
-11,3875000.0,2778.0,1394.8884089272858,5.0,4.0,2011 Park Blvd,Palo Alto,CA,NaN,6,6,2018
-12,1828000.0,1392.0,1313.2183908045977,2.0,2.5,707 Webster St,Palo Alto,CA,Vendre Properties,6,6,2018
-13,1478000.0,1135.0,1302.2026431718061,2.0,2.0,410 Sheridan Ave APT 455,Palo Alto,CA,NaN,6,6,2018
-14,7988000.0,4448.0,1795.863309352518,5.0,4.0,1818 Bryant St,Palo Alto,CA,Deleon Realty,6,6,2018
-15,3500000.0,1001.0,3496.5034965034965,2.0,1.0,2135 Emerson St,Palo Alto,CA,Prochnow Realtors,6,6,2018
-16,4998000.0,5292.0,944.4444444444445,5.0,5.0,3513 Waverley St,Palo Alto,CA,Pacific Union International Inc.,6,6,2018
-17,3648000.0,2830.0,1289.0459363957598,5.0,3.0,124 Lundy Ln,Palo Alto,CA,Pacific Union International Inc.,6,6,2018
-18,5998000.0,2475.0,2423.4343434343436,5.0,3.0,1239 Martin Ave,Palo Alto,CA,NaN,6,6,2018
-19,7988000.0,3376.0,2366.1137440758293,5.0,5.0,1117 Hamilton Ave,Palo Alto,CA,Deleon Realty,6,6,2018
-20,2998000.0,2312.0,1296.712802768166,5.0,4.0,794 Los Robles Ave,Palo Alto,CA,Sereno Group,6,6,2018
-21,2698000.0,1765.0,1528.6118980169972,3.0,2.0,3618 Louis Rd,Palo Alto,CA,NaN,6,6,2018
-22,1548000.0,1263.0,1225.6532066508314,2.0,2.0,500 Fulton St APT 104,Palo Alto,CA,Sean Proctor Real Estate,6,6,2018
-23,1698000.0,1826.0,929.9014238773275,3.0,3.0,444 San Antonio Rd APT 1B,Palo Alto,CA,NaN,6,6,2018
-24,10988000.0,7743.0,1419.0882087046364,5.0,6.0,1535 Edgewood Dr,Palo Alto,CA,NaN,6,6,2018
-0,4599000.0,3085.0,1490.7617504051864,4.0,3.0,1035 Los Robles Ave,Palo Alto,CA,K&K Realty  Inc,6,6,2018
-3,1999000.0,1721.0,1161.5339918651946,3.0,1.0,1031 Embarcadero Rd,Palo Alto,CA,Better Homes and Gardens Real Estate Ventura Barnett Properties,6,6,2018
-7,4500000.0,3487.0,1290.5075996558646,5.0,4.0,152 Melville Ave,Palo Alto,CA,Golden Gate Sotheby's International Realty,6,6,2018
-8,1499000.0,1354.0,1107.0901033973412,2.0,2.0,555 Byron St APT 207,Palo Alto,CA,NaN,6,6,2018
-9,6995000.0,7555.0,925.8769027134348,6.0,7.0,931 Laurel Glen Dr,Palo Alto,CA,NaN,6,6,2018
-11,7798000.0,3131.0,2490.578090067071,4.0,4.0,1301 Hamilton Ave,Palo Alto,CA,NaN,6,6,2018
-12,7800000.0,3827.0,2038.149986934936,5.0,5.0,1437 Hamilton Ave,Palo Alto,CA,NaN,6,6,2018
-13,2590000.0,1245.0,2080.3212851405624,3.0,1.0,280 Matadero Ave,Palo Alto,CA,NaN,6,6,2018
-14,1695000.0,1589.0,1066.708621774701,2.0,2.0,555 Byron St APT 304,Palo Alto,CA,NaN,6,6,2018
-15,7290000.0,6260.0,1164.5367412140574,4.0,5.0,976 Laurel Glen Dr,Palo Alto,CA,NaN,6,6,2018
-16,4998000.0,3503.0,1426.777048244362,5.0,7.0,931 Clara Dr,Palo Alto,CA,DPL Real Estate,6,6,2018
-17,8950000.0,5675.0,1577.092511013216,4.0,5.0,1441 Edgewood Dr,Palo Alto,CA,NaN,6,6,2018
-18,4380000.0,3080.0,1422.077922077922,4.0,2.0,1099 Los Robles Ave,Palo Alto,CA,NaN,6,6,2018
-0,1995000.0,1088.0,1833.639705882353,3.0,2.0,992 Boranda Ave,Mountain View,CA,Sereno Group,6,6,2018
-1,1549000.0,1366.0,1133.9677891654464,3.0,3.0,1512 Wildrose Way,Mountain View,CA,Coldwell Banker Residential Brokerage - Menlo Park,6,6,2018
-2,998888.0,1199.0,833.1009174311927,2.0,2.0,13 Morning Sun Ct,Mountain View,CA,NaN,6,6,2018
-3,999888.0,1206.0,829.094527363184,2.0,2.0,49 Showers Dr APT N168,Mountain View,CA,NaN,6,6,2018
-4,285000.0,1455.0,195.8762886597938,3.0,2.0,1075 Space Park Way SPC 358,Mountain View,CA,Alliance Manufactured Homes,6,6,2018
-5,1998000.0,1322.0,1511.3464447806355,3.0,2.0,1759 Begen Ave,Mountain View,CA,NaN,6,6,2018
-6,1198000.0,1401.0,855.1034975017844,2.0,3.0,25 Sherland Ave # B,Mountain View,CA,NaN,6,6,2018
-7,1448000.0,1580.0,916.4556962025316,3.0,3.0,2034 San Luis Ave APT 5,Mountain View,CA,Sereno Group,6,6,2018
-8,1148800.0,1274.0,901.7268445839875,2.0,2.0,233 Horizon Ave,Mountain View,CA,Coldwell Banker Residential Brokerage - San Jose-Willow Glen,6,6,2018
-9,749000.0,894.0,837.807606263982,2.0,1.0,280 Easy St APT 414,Mountain View,CA,Coldwell Banker Residential Brokerage - Palo Alto Downtown,6,6,2018
-10,369000.0,1458.0,253.08641975308643,3.0,2.0,325 Sylvan Ave SPC 83,Mountain View,CA,Alliance Manufactured Homes,6,6,2018
-11,1195000.0,1236.0,966.8284789644013,2.0,3.0,446 Bedford Loop,Mountain View,CA,Coldwell Banker Residential Brokerage - Cupertino,6,6,2018
-12,1998000.0,1703.0,1173.2237228420433,3.0,2.0,1294 Cuernavaca Circulo,Mountain View,CA,NaN,6,6,2018
-13,998000.0,998.0,1000.0,2.0,2.0,905 W Middlefield Rd APT 992,Mountain View,CA,Better Homes and Gardens Real Estate J.F. Finnegan Realtors,6,6,2018
-14,925000.0,1012.0,914.0316205533596,2.0,2.0,183 Del Medio Ave APT 302,Mountain View,CA,Sereno Group,6,6,2018
-15,1249000.0,1150.0,1086.0869565217392,2.0,2.0,743 Cottage Ct,Mountain View,CA,ASJ Real Estate Investments,6,6,2018
-16,1200000.0,1084.0,1107.0110701107012,3.0,2.0,98 Flynn Ave APT A,Mountain View,CA,NaN,6,6,2018
-17,2395000.0,2667.0,898.0127484064492,4.0,4.0,575 Boranda Ct,Mountain View,CA,Realty World - Kevin F. Garvey,6,6,2018
-18,331000.0,1680.0,197.02380952380952,3.0,2.0,433 Sylvan Ave SPC 82,Mountain View,CA,Alliance Manufactured Homes,6,6,2018
-19,2788000.0,2174.0,1282.4287028518859,5.0,4.0,1806 Limetree Ln,Mountain View,CA,NaN,6,6,2018
-20,1649000.0,1772.0,930.5869074492099,4.0,4.0,230 Bryant St APT 8,Mountain View,CA,Coldwell Banker Residential Brokerage - Los Gatos,6,6,2018
-21,1970000.0,1053.0,1870.8452041785374,3.0,1.0,372 Farley St,Mountain View,CA,NaN,6,6,2018
-22,1425000.0,1594.0,893.9774153074028,2.0,3.0,469 Kasra Dr,Mountain View,CA,KW Silicon City,6,6,2018
-23,1795000.0,1314.0,1366.0578386605785,3.0,2.0,1128 Phyllis Ave,Mountain View,CA,Sereno Group,6,6,2018
-24,748000.0,662.0,1129.9093655589124,1.0,1.0,505 Cypress Point Dr UNIT 94,Mountain View,CA,Better Homes and Gardens Real Estate J.F. Finnegan Realtors,6,6,2018
-4,229000.0,1040.0,220.19230769230768,3.0,2.0,433 Sylvan Ave SPC 101,Mountain View,CA,Alliance Manufactured Homes,6,6,2018
-5,299000.0,1160.0,257.7586206896552,2.0,2.0,325 Sylvan Ave SPC 28,Mountain View,CA,Pams Homes,6,6,2018
-6,1970000.0,832.0,2367.7884615384614,3.0,1.0,394 Farley St,Mountain View,CA,NaN,6,6,2018
-7,128999.0,624.0,206.72916666666666,2.0,1.0,2855 Senter Rd SPC 41,San Jose,CA,Intero Real Estate Services,6,6,2018
-8,219000.0,1040.0,210.57692307692307,2.0,2.0,325 Sylvan Ave SPC 80,Mountain View,CA,Alliance Manufactured Homes,6,6,2018
-13,3700000.0,1290.0,2868.217054263566,3.0,2.0,1107 High School Way,Mountain View,CA,"Reza Khan, Broker",6,6,2018
-0,2250000.0,1452.0,1549.5867768595042,3.0,2.0,309 Vincent Dr,Mountain View,CA,VS Realty & Loans Inc,6,6,2018
-1,1860000.0,930.0,2000.0,3.0,1.0,201 Granada Dr,Mountain View,CA,HomeCoin.com,6,6,2018
-2,279000.0,1244.0,224.2765273311897,3.0,2.0,191 E El Camino Real SPC 124,Mountain View,CA,NaN,6,6,2018
-3,319000.0,1316.0,242.4012158054711,3.0,2.0,325 Sylvan Ave SPC 42,Mountain View,CA,Alliance Manufactured Homes,6,6,2018
-4,269000.0,1150.0,233.91304347826087,3.0,2.0,433 Sylvan Ave SPC 115,Mountain View,CA,"Alliance Manufactured Homes, Inc.",6,6,2018
-5,169900.0,960.0,176.97916666666666,3.0,1.0,2855 Senter Rd SPC 37,San Jose,CA,NaN,6,6,2018
-6,229000.0,1040.0,220.19230769230768,2.0,2.0,433 Sylvan Ave SPC 103,Mountain View,CA,Mandala Properties,6,6,2018
-9,698000.0,564.0,1237.5886524822695,1.0,1.0,500 W Middlefield Rd APT 71,Mountain View,CA,NaN,6,6,2018
-10,3888000.0,3458.0,1124.3493348756506,5.0,5.0,59 Devonshire Ave,Mountain View,CA,NaN,6,6,2018
-12,1150000.0,1206.0,953.5655058043118,2.0,2.0,2111 Latham St APT 221,Mountain View,CA,NaN,6,6,2018
-0,2998000.0,2195.0,1365.8314350797266,4.0,3.0,520 Benvenue Ave,Los Altos,CA,NaN,6,6,2018
-1,16788000.0,9677.0,1734.8351761909682,6.0,11.0,10718 Mora Dr,Los Altos,CA,The Agency,6,6,2018
-2,3298000.0,2665.0,1237.5234521575985,4.0,3.0,2 Yerba Buena Ave,Los Altos,CA,Pacific Union International Inc.,6,6,2018
-3,2698000.0,1912.0,1411.0878661087866,3.0,3.0,339 Hawthorne Ave,Los Altos,CA,Sereno Group,6,6,2018
-4,2998000.0,2266.0,1323.036187113857,4.0,3.0,360 Lunada Dr,Los Altos,CA,NaN,6,6,2018
-5,2595000.0,1598.0,1623.9048811013768,3.0,3.0,462 Panchita Way,Los Altos,CA,Realty World - Showcase Properties,6,6,2018
-6,2548000.0,1424.0,1789.3258426966293,4.0,3.0,837 Berry Ave,Los Altos,CA,NaN,6,6,2018
-7,3995000.0,2172.0,1839.318600368324,3.0,2.0,119 Coronado Ave,Los Altos,CA,Sereno Group,6,6,2018
-8,1858000.0,1406.0,1321.4793741109531,2.0,2.0,396 1st St # 13,Los Altos,CA,NaN,6,6,2018
-9,2880000.0,1498.0,1922.5634178905207,3.0,2.0,260 Hawthorne Ave,Los Altos,CA,Homeland Mortgage and Real Estate,6,6,2018
-10,5700000.0,4060.0,1403.9408866995075,4.0,4.0,295 Covington Rd,Los Altos,CA,NaN,6,6,2018
-11,3799800.0,3395.0,1119.2341678939617,5.0,5.0,300 Cuesta Dr,Los Altos,CA,O Homez Inc,6,6,2018
-12,3698000.0,1763.0,2097.560975609756,4.0,2.0,219 Portola Ct,Los Altos,CA,NaN,6,6,2018
-13,2988000.0,763.0,3916.1205766710355,2.0,1.0,600 Palm Ave,Los Altos,CA,Coldwell Banker Residential Brokerage - Los Altos,6,6,2018
-14,3600000.0,3527.0,1020.6974766090161,5.0,5.0,934 Riverside Dr,Los Altos,CA,NaN,6,6,2018
-15,2099000.0,1840.0,1140.7608695652175,2.0,2.0,26 Deep Well Ln,Los Altos,CA,NaN,6,6,2018
-16,7100000.0,5150.0,1378.6407766990292,6.0,8.0,1530 Arbor Ave,Los Altos,CA,NaN,6,6,2018
-17,3198000.0,2089.0,1530.8760172331258,4.0,2.0,1274 Saint Mark Ct,Los Altos,CA,Benson Real Estate,6,6,2018
-18,6800000.0,3985.0,1706.3989962358846,5.0,4.0,830 Arroyo Rd,Los Altos,CA,Sereno Group,6,6,2018
-19,5880000.0,5600.0,1050.0,5.0,7.0,168 Loucks Ave,Los Altos,CA,NaN,6,6,2018
-20,6495000.0,4300.0,1510.4651162790697,5.0,5.0,290 Quinnhill Rd,Los Altos,CA,Sereno Group,6,6,2018
-21,3500000.0,3378.0,1036.1160449970396,3.0,5.0,10999 Terry Way,Los Altos,CA,Sereno Group,6,6,2018
-22,4699999.0,4450.0,1056.1795505617977,5.0,6.0,780 S El Monte Ave,Los Altos,CA,Realty World - Alliance,6,6,2018
-23,3800000.0,3132.0,1213.2822477650063,3.0,3.0,1551 Julie Ln,Los Altos,CA,CENTURY 21 Lad Realty,6,6,2018
-0,1999000.0,1430.0,1397.902097902098,2.0,3.0,740 Francisco St,San Francisco,CA,Jackson Stieb Action RE,6,6,2018
-9,1499000.0,1550.0,967.0967741935484,3.0,1.0,2059 Hayes St,San Francisco,CA,Berkshire Hathaway-Franciscan,6,6,2018
-1,1075000.0,840.0,1279.7619047619048,1.0,1.0,401 Harrison St APT 16A,San Francisco,CA,Compass,6,6,2018
-3,7200000.0,2172.0,3314.9171270718234,4.0,5.0,1372 Francisco St,San Francisco,CA,Sotheby's International Realty,6,6,2018
-9,899000.0,815.0,1103.0674846625766,2.0,1.5,1930 Hayes St APT 4,San Francisco,CA,Paragon Real Estate Group,6,6,2018
-5,699000.0,693.0,1008.6580086580086,1.0,1.0,260 King St UNIT 531,San Francisco,CA,Real Estate eBroker,6,6,2018
-2,829000.0,1420.0,583.8028169014085,2.0,1.0,940 Anna St,San Mateo,CA,Berkshire Hathaway Home Services California Realty,6,6,2018
-5,1498000.0,1780.0,841.5730337078652,3.0,2.0,3413 Westwood Ct,San Mateo,CA,Sefanov Realty,6,6,2018
-6,779950.0,974.0,800.7700205338809,2.0,1.0,932 Peninsula Ave APT 308,San Mateo,CA,Dumas & Company,6,6,2018
-7,880000.0,1054.0,834.9146110056926,3.0,1.0,1576 Marina Ct UNIT C,San Mateo,CA,Maxreal,6,6,2018
-11,2845000.0,2927.0,971.98496754356,4.0,4.0,3111 Mena Dr,San Mateo,CA,NaN,6,6,2018
-13,2640000.0,2542.0,1038.552321007081,3.0,4.0,3107 Mena Dr,San Mateo,CA,NaN,6,6,2018
-14,2770000.0,2884.0,960.4715672676838,4.0,5.0,3103 Mena Dr,San Mateo,CA,NaN,6,6,2018
-1,3698000.0,3000.0,1232.6666666666667,4.0,4.0,105 W Bellevue Ave # W,San Mateo,CA,NaN,6,6,2018
-3,1595000.0,1770.0,901.1299435028249,3.0,2.0,210 Hobart Ave,San Mateo,CA,NaN,6,6,2018
-4,875000.0,1115.0,784.7533632286995,2.0,3.0,1925 Vista Cay,San Mateo,CA,Coldwell Banker Residential Brokerage - Redwood City - San Carlos,6,6,2018
-8,2088000.0,2684.0,777.9433681073025,4.0,3.0,2614 Isabelle Ave,San Mateo,CA,Reside Real Estate,6,6,2018
-9,1288000.0,1530.0,841.8300653594771,5.0,3.0,1548 Lodi Ave,San Mateo,CA,Better Homes and Gardens Real Estate J.F. Finnegan Realtors,6,6,2018
-10,799000.0,1150.0,694.7826086956521,2.0,2.0,58 N Camino Real # 210,San Mateo,CA,NaN,6,6,2018
-11,1499000.0,1800.0,832.7777777777778,3.0,2.0,23 Del Monte Pl,San Mateo,CA,Coldwell Banker Residential Brokerage - San Mateo-Downtown,6,6,2018
-12,838000.0,1060.0,790.566037735849,2.0,2.0,249 Elm St APT 204,San Mateo,CA,NaN,6,6,2018
-13,875000.0,1115.0,784.7533632286995,2.0,3.0,1908 Vista Cay # 3,San Mateo,CA,NaN,6,6,2018
-15,1600000.0,2080.0,769.2307692307693,3.0,2.0,1411 Palm Ave,San Mateo,CA,NaN,6,6,2018
-16,799000.0,1150.0,694.7826086956521,2.0,2.0,58 N El Camino Real APT 210,San Mateo,CA,Alain Pinel Realtors,6,6,2018
-18,768000.0,904.0,849.5575221238938,2.0,1.0,1453 Via Vis,San Mateo,CA,Realty World - Martinelli Properties,6,6,2018
-0,895000.0,1200.0,745.8333333333334,2.0,2.0,58 N El Camino Real APT 111,San Mateo,CA,Nest Property,6,6,2018
-1,828000.0,1070.0,773.8317757009346,2.0,2.0,1406 Via Vis,San Mateo,CA,Today Sotheby's International Realty,6,6,2018
-2,1329888.0,2000.0,664.944,4.0,2.0,521 E 16th Ave # E,San Mateo,CA,Better Homes and Gardens Real Estate J.F. Finnegan Realtors,6,6,2018
-3,1325000.0,1750.0,757.1428571428571,3.0,3.0,1355 Wayne Way,San Mateo,CA,Coldwell Banker Residential Brokerage - Cupertino,6,6,2018
-4,1188000.0,1100.0,1080.0,3.0,1.0,517 Poinsettia Ave,San Mateo,CA,Re/Max Synergy Group,6,6,2018
-5,2389000.0,2319.0,1030.1854247520482,4.0,4.0,3122 Hacienda St,San Mateo,CA,Signature Realty & Mortgage,6,6,2018
-6,1498000.0,2020.0,741.5841584158416,4.0,3.0,3936 Regan Dr,San Mateo,CA,NaN,6,6,2018
-7,1125000.0,1375.0,818.1818181818181,3.0,2.0,2405 Elliott St,San Mateo,CA,Gilmartin Group,6,6,2018
-8,3095000.0,3151.0,982.2278641701047,4.0,4.0,512 Parrott Dr,San Mateo,CA,NaN,6,6,2018
-9,1325000.0,1310.0,1011.4503816793894,3.0,2.0,29 Ontario St,San Mateo,CA,Signature Realty & Mortgage,6,6,2018
-10,1395000.0,1750.0,797.1428571428571,3.0,2.0,1778 Brooks St,San Mateo,CA,Vincent C. Scherba Real Estate,6,6,2018
-12,628000.0,729.0,861.4540466392318,1.0,1.0,401 S Norfolk St APT 121,San Mateo,CA,Coldwell Banker Residential Brokerage - San Francisco Pacific Heights,6,6,2018
-14,1399000.0,1540.0,908.4415584415584,4.0,2.0,2842 Hosmer St,San Mateo,CA,Infinite Real Estate,6,6,2018
-16,2999888.0,4060.0,738.888669950739,4.0,4.0,791 Crystal Springs Rd,San Mateo,CA,NaN,6,6,2018
-9,1788000.0,2268.0,788.3597883597884,4.0,3.0,2606 Carlmont Dr,Belmont,CA,Coldwell Banker Residential Brokerage - San Mateo-Downtown,6,6,2018
-11,1300000.0,1440.0,902.7777777777778,3.0,1.0,1121 Granada St,Belmont,CA,NaN,6,6,2018
-18,2378000.0,2852.0,833.8008415147265,4.0,4.0,2223 Thurm Ave,Belmont,CA,Sereno Group,6,6,2018
-19,1799000.0,1940.0,927.319587628866,4.0,3.0,1903 Bayview Ave,Belmont,CA,Coldwell Banker Residential Brokerage - San Mateo-Downtown,6,6,2018
-20,1698000.0,1920.0,884.375,3.0,2.0,1104 Tahoe Dr,Belmont,CA,NaN,6,6,2018
-4,1400000.0,2420.0,578.5123966942149,3.0,2.0,1716 Hillman Ave,Belmont,CA,Girouard Properties,6,6,2018
-7,2798000.0,3070.0,911.4006514657981,4.0,4.0,1768 Terrace Dr,Belmont,CA,Coldwell Banker Residential Brokerage - San Mateo-Downtown,6,6,2018
-11,1230000.0,1713.0,718.0385288966725,3.0,3.0,300 Davey Glen Rd APT 3621,Belmont,CA,NaN,6,6,2018
-14,2900000.0,2500.0,1160.0,4.0,3.0,2640 Wakefield Dr,Belmont,CA,NaN,6,6,2018
-0,1899000.0,1890.0,1004.7619047619048,3.0,2.0,2614 Ponce Ave,Belmont,CA,Climb Real Estate,6,6,2018
-1,2599000.0,2495.0,1041.683366733467,4.0,3.0,2884 Wakefield Dr,Belmont,CA,Coldwell Banker Residential Brokerage - Burlingame,6,6,2018
-0,2295000.0,1140.0,2013.157894736842,3.0,2.0,465 Wayside Rd,Portola Valley,CA,Kerwin & Associates,6,6,2018
-3,6800000.0,4900.0,1387.7551020408164,8.0,5.0,140 Willowbrook Dr,Portola Valley,CA,Coldwell Banker Residential Brokerage - Portola Valley,6,6,2018
-4,13500000.0,9130.0,1478.6418400876232,5.0,7.0,707 Westridge Dr,Portola Valley,CA,Coldwell Banker Residential Brokerage - Menlo Park,6,6,2018
-7,6495000.0,4670.0,1390.7922912205568,5.0,7.0,1 Applewood Ln,Portola Valley,CA,Coldwell Banker Residential Brokerage - Woodside,6,6,2018
-8,16500000.0,6610.0,2496.2178517397883,5.0,5.0,880 Westridge Dr,Portola Valley,CA,Coldwell Banker Residential Brokerage - Menlo Park,6,6,2018
-9,7998000.0,5595.0,1429.490616621984,4.0,4.0,6 Redberry Rdg,Portola Valley,CA,NaN,6,6,2018
-10,6595000.0,5542.0,1190.0036088054853,5.0,6.0,1305 Westridge Dr,Portola Valley,CA,Golden Gate Sotheby's International Realty,6,6,2018
-11,4695000.0,3600.0,1304.1666666666667,5.0,3.0,20 Sioux Way,Portola Valley,CA,NaN,6,6,2018
-12,6800000.0,4700.0,1446.8085106382978,3.0,4.0,360 Golden Oak Dr,Portola Valley,CA,Coldwell Banker Residential Brokerage - Portola Valley,6,6,2018
-13,4900000.0,3600.0,1361.111111111111,3.0,2.0,100 Alamos Rd,Portola Valley,CA,NaN,6,6,2018
-14,5695000.0,3900.0,1460.2564102564102,4.0,4.0,133 Ash Ln,Portola Valley,CA,NaN,6,6,2018
-15,3395000.0,4370.0,776.8878718535469,5.0,4.0,900 Wayside Rd,Portola Valley,CA,Coldwell Banker Residential Brokerage - Woodside,6,6,2018
-16,16988000.0,6808.0,2495.2996474735605,5.0,8.0,127 Pinon Dr,Portola Valley,CA,Deleon Realty,6,6,2018
-1,799000.0,1040.0,768.2692307692307,3.0,1.0,736 Crespi Dr,Pacifica,CA,"SF Homelife, Inc.",6,6,2018
-4,925000.0,1000.0,925.0,3.0,1.0,104 Lorry Ln,Pacifica,CA,Eccleston Incorporated,6,6,2018
-7,949000.0,1120.0,847.3214285714286,3.0,2.0,1165 Manzanita Dr,Pacifica,CA,NaN,6,6,2018
-8,1150000.0,1490.0,771.8120805369127,3.0,2.0,1088 Park Pacifica Ave,Pacifica,CA,BC Home Realty,6,6,2018
-9,848888.0,1340.0,633.4985074626866,3.0,2.0,1011 Rio Vista Dr,Pacifica,CA,NaN,6,6,2018
-11,1100000.0,1230.0,894.3089430894308,3.0,2.0,5 Pt Reyes Way,Pacifica,CA,"Coldwell Banker Fahey Properties, Inc.",6,6,2018
-12,749000.0,1380.0,542.7536231884058,3.0,3.0,1299 Rosita Rd,Pacifica,CA,RE/MAX Star Properties,6,6,2018
-13,1188000.0,1600.0,742.5,4.0,2.0,1023 Yosemite Dr,Pacifica,CA,RE/MAX Star Properties,6,6,2018
-14,958000.0,1690.0,566.8639053254437,4.0,2.0,1047 Rio Vista Dr,Pacifica,CA,Excel Realty,6,6,2018
-18,888000.0,1300.0,683.0769230769231,2.0,3.0,909 Fassler Ave,Pacifica,CA,Coldwell Banker Residential Brokerage - Half Moon Bay,6,6,2018
-1,899000.0,1040.0,864.4230769230769,3.0,1.0,1168 Cervantes Way,Pacifica,CA,Coldwell Banker Residential Brokerage - San Francisco Market Street,6,6,2018
-4,1458888.0,2520.0,578.9238095238095,3.0,3.0,518 Sea Spray Ct,Pacifica,CA,Reali,6,6,2018
-5,659000.0,1100.0,599.0909090909091,2.0,2.0,1148 Terra Nova Blvd,Pacifica,CA,"Home Sales Team, Inc.",6,6,2018
-6,899000.0,1080.0,832.4074074074074,3.0,2.0,201 Hillside Dr,Pacifica,CA,Berkshire Hathaway Home Services California Realty,6,6,2018
-8,1250000.0,2190.0,570.7762557077625,4.0,3.0,1145 Banyan Way,Pacifica,CA,Marissa Reyes,6,6,2018
-12,898000.0,1215.0,739.0946502057614,3.0,2.0,267 Seaside Dr,Pacifica,CA,NaN,6,6,2018
-0,1750000.0,2520.0,694.4444444444445,3.0,3.0,1391 Peralta Rd,Pacifica,CA,NaN,6,6,2018
-1,2350000.0,3175.0,740.1574803149606,4.0,4.0,35 Malavear Dr,Pacifica,CA,Coastside Associates Real Estate,6,6,2018
-2,1549000.0,2339.0,662.248824283882,4.0,3.5,27 Montecito Ave,Pacifica,CA,Engel & Volkers San Francisco,6,6,2018
-5,3000000.0,4980.0,602.4096385542168,6.0,6.0,298 Juanita Ave,Pacifica,CA,NaN,6,6,2018
-6,899000.0,940.0,956.3829787234042,3.0,1.0,635 Rockaway Beach Ave,Pacifica,CA,NaN,6,6,2018
-2,2299000.0,2338.0,983.3190761334474,4.0,3.0,18940 Newsom Ave,Cupertino,CA,Coldwell Banker,6,6,2018
-3,1748000.0,1127.0,1551.0204081632653,3.0,2.0,18645 Ralya Ct,Cupertino,CA,Maxreal,6,6,2018
-4,2548000.0,2349.0,1084.716900808855,3.0,3.0,10285 Scenic Blvd,Cupertino,CA,Intero Real Estate Services,6,6,2018
-5,2998000.0,3030.0,989.4389438943895,4.0,3.0,10525 Madrone Ct,Cupertino,CA,Intero Real Estate Services,6,6,2018
-6,1680000.0,1670.0,1005.9880239520958,3.0,3.0,10280 Park Green Ln UNIT 836,Cupertino,CA,Intero Real Estate Services,6,6,2018
-8,1249000.0,1487.0,839.946200403497,2.0,2.0,20051 Northwood Dr,Cupertino,CA,NaN,6,6,2018
-9,2588000.0,2300.0,1125.2173913043478,5.0,3.0,21683 Castleton St,Cupertino,CA,Coldwell Banker Residential Brokerage - Cupertino,6,6,2018
-12,1758000.0,1499.0,1172.7818545697132,4.0,2.0,622 Miller Ave,Cupertino,CA,Coldwell Banker Residential Brokerage - Los Gatos,6,6,2018
-13,1245000.0,1385.0,898.9169675090253,2.0,3.0,11030 Firethorne Dr,Cupertino,CA,Redfin,6,6,2018
-8,1299000.0,1487.0,873.5709482178884,3.0,2.0,10826 Northridge Sq,Cupertino,CA,NaN,6,6,2018
-10,3688000.0,3659.0,1007.9256627493851,5.0,4.0,10115 Lockwood Dr,Cupertino,CA,Maxreal,6,6,2018
-11,1088000.0,1154.0,942.8076256499133,2.0,2.0,10259 Nile Dr,Cupertino,CA,Maxreal,6,6,2018
-12,1899000.0,1008.0,1883.9285714285713,2.0,1.0,10690 Cordova Rd,Cupertino,CA,Coldwell Banker Residential Brokerage - Cupertino,6,6,2018
-14,3968000.0,3623.0,1095.2249516974882,5.0,5.0,10240 Lebanon Dr,Cupertino,CA,U16818 Financial Services,6,6,2018
-16,1399999.0,1454.0,962.8603851444292,3.0,2.0,18770 Newsom Ave,Cupertino,CA,CENTURY 21 Alpha,6,6,2018
-17,2988000.0,1687.0,1771.1914641375222,4.0,3.0,10573 Cedar Tree Ct,Cupertino,CA,NaN,6,6,2018
-18,2998000.0,2570.0,1166.5369649805448,5.0,4.0,10636 Wunderlich Dr,Cupertino,CA,NaN,6,6,2018
-21,2288000.0,2176.0,1051.4705882352941,4.0,2.0,10210 E Estates Dr,Cupertino,CA,Amici Real Estate,6,6,2018
-3,2398000.0,1510.0,1588.0794701986756,4.0,3.0,7877 Belknap Dr,Cupertino,CA,Premier Century Real Estate Services,6,6,2018
-7,1088000.0,1199.0,907.4228523769808,2.0,2.0,20683 Celeste Cir,Cupertino,CA,Coldwell Banker Residential Brokerage - Cupertino,6,6,2018
-14,2950000.0,600.0,4916.666666666667,2.0,1.0,22344 Regnart Rd,Cupertino,CA,Coldwell Banker Residential Brokerage - Saratoga,6,6,2018
-16,2588888.0,1989.0,1301.6028154851683,4.0,2.0,10180 N Blaney Ave,Cupertino,CA,NaN,6,6,2018
-17,2868000.0,2813.0,1019.552079630288,5.0,4.0,10204 Byrne Ave,Cupertino,CA,Legacy Real Estate & Assoc,6,6,2018
-19,1788888.0,1388.0,1288.8242074927955,3.0,2.0,873 Lily Ave,Cupertino,CA,NaN,6,6,2018
-20,3688888.0,3618.0,1019.5931453841902,6.0,4.0,10460 S Foothill Blvd,Cupertino,CA,Coldwell Banker Residential Brokerage - Cupertino,6,6,2018
-21,1295000.0,1017.0,1273.3529990167158,2.0,2.0,22732 Majestic Oak Way,Cupertino,CA,NaN,6,6,2018
-2,1088000.0,913.0,1191.6757940854327,3.0,1.0,216 E Arbor Ave,Sunnyvale,CA,NaN,6,6,2018
-5,1249950.0,1280.0,976.5234375,2.0,3.0,977 Wisteria Ter,Sunnyvale,CA,Image Real Estate,6,6,2018
-6,1199000.0,1239.0,967.7158999192898,2.0,3.0,585 San Rivera Ter,Sunnyvale,CA,Coldwell Banker Residential Brokerage - Saratoga,6,6,2018
-8,899000.0,996.0,902.6104417670683,2.0,2.0,612 San Conrado Ter UNIT 7,Sunnyvale,CA,Maxreal Property,6,6,2018
-9,998000.0,1168.0,854.4520547945206,2.0,2.0,1000 Chula Vista Ter,Sunnyvale,CA,Alain Pinel Realtors,6,6,2018
-10,1998000.0,1759.0,1135.8726549175667,4.0,2.0,458 Pin Oak Dr,Sunnyvale,CA,Coldwell Banker Residential Brokerage - San Jose-Willow Glen,6,6,2018
-11,1800000.0,1571.0,1145.7670273711012,3.0,3.0,1561 Oak Point Ter,Sunnyvale,CA,Maxreal Property,6,6,2018
-13,2098000.0,2333.0,899.271324474925,5.0,3.0,855 Rubis Dr,Sunnyvale,CA,NaN,6,6,2018
-5,1298000.0,1356.0,957.2271386430679,3.0,3.0,720 Blair Ct APT C,Sunnyvale,CA,Coldwell Banker Residential Brokerage - Cupertino,6,6,2018
-6,199000.0,1947.0,102.2085259373395,2.0,2.0,690 Persian Dr SPC 64,Sunnyvale,CA,Alliance Manufactured Homes,6,6,2018
-7,1780000.0,1553.0,1146.1687057308436,4.0,2.0,1413 S Wolfe Rd,Sunnyvale,CA,Redfin,6,6,2018
-8,1399000.0,1469.0,952.3485364193328,3.0,3.0,488 Torrey Pine Ter,Sunnyvale,CA,Sereno Group,6,6,2018
-19,1675000.0,1858.0,901.5069967707212,4.0,2.0,825 Pierino Ave,Sunnyvale,CA,NaN,6,6,2018
-20,229000.0,1172.0,195.3924914675768,3.0,2.0,600 E Weddell Dr SPC 151,Sunnyvale,CA,Alliance Manufactured Homes,6,6,2018
-0,2299956.0,1921.0,1197.2701717855284,4.0,2.0,854 Corvallis Dr,Sunnyvale,CA,Los Gatos Properties-rm,6,6,2018
-3,1800000.0,1508.0,1193.6339522546418,3.0,2.0,1015 Havre Ct,Sunnyvale,CA,NaN,6,6,2018
-4,1500000.0,1468.0,1021.7983651226158,4.0,2.0,230 Velvetlake Dr,Sunnyvale,CA,"eXp Realty of California, Inc.",6,6,2018
-10,299900.0,1493.0,200.87073007367715,3.0,2.0,1220 Tasman Dr SPC 225,Sunnyvale,CA,NaN,6,6,2018
-16,1999888.0,1770.0,1129.8802259887007,4.0,2.0,1034 Helena Dr,Sunnyvale,CA,Intempus Realty,6,6,2018
-0,995000.0,1328.0,749.2469879518072,3.0,2.0,526 Madison St,Santa Clara,CA,ShopProp Inc.,6,6,2018
-1,1849000.0,1350.0,1369.6296296296296,4.0,2.0,431 Lowell Dr,Santa Clara,CA,Lehr Real Estate,6,6,2018
-4,1349000.0,980.0,1376.530612244898,3.0,1.0,613 Malarin Ave,Santa Clara,CA,Alain Pinel Realtors,6,6,2018
-5,2288000.0,1910.0,1197.9057591623036,4.0,2.0,2882 Mesquite Dr,Santa Clara,CA,NaN,6,6,2018
-8,2399000.0,3200.0,749.6875,4.0,3.0,2390 Park Ave,Santa Clara,CA,Realty One Group Infinity,6,6,2018
-9,1399000.0,1716.0,815.2680652680652,3.0,3.0,4010 Fitzpatrick Way,Santa Clara,CA,NaN,6,6,2018
-13,998000.0,1155.0,864.069264069264,3.0,1.0,997 Warburton Ave,Santa Clara,CA,NaN,6,6,2018
-1,1765000.0,1284.0,1374.6105919003114,3.0,2.0,360 Hillsdale Ave,Santa Clara,CA,NaN,6,6,2018
-2,1180000.0,1369.0,861.9430241051863,3.0,3.0,2554 Sandhill Way,Santa Clara,CA,NaN,6,6,2018
-8,1458000.0,1784.0,817.2645739910314,3.0,3.0,79 Conner Pl,Santa Clara,CA,Coldwell Banker Residential Brokerage - Palo Alto Downtown,6,6,2018
-11,1450000.0,1657.0,875.0754375377188,3.0,4.0,4106 Tobin Cir,Santa Clara,CA,Sereno Group,6,6,2018
-9,549000.0,712.0,771.0674157303371,2.0,1.0,2601 Cortez Dr UNIT 5203,Santa Clara,CA,Home Solutions Realty,6,6,2018
-10,1048000.0,1144.0,916.083916083916,3.0,1.0,2819 Agate Dr,Santa Clara,CA,Coldwell Banker Residential Brokerage - San Jose-Willow Glen,6,6,2018
-11,749000.0,920.0,814.1304347826087,2.0,1.0,1904 Miraplaza Ct APT 22,Santa Clara,CA,NaN,6,6,2018
-14,1398000.0,1455.0,960.8247422680413,4.0,2.0,2322 Amethyst Dr,Santa Clara,CA,Coldwell Banker Residential Brokerage - Cupertino,6,6,2018
-15,739000.0,951.0,777.0767613038906,2.0,1.0,1720 Halford Ave APT 232,Santa Clara,CA,NaN,6,6,2018
-16,1899000.0,1907.0,995.8049292081804,3.0,2.0,281 Serena Way,Santa Clara,CA,"SoldNest, Inc.",6,6,2018
-20,699000.0,908.0,769.8237885462555,1.0,1.0,3901 Lick Mill Blvd APT 438,Santa Clara,CA,NaN,6,6,2018
-22,1452950.0,1446.0,1004.8063623789765,4.0,2.0,930 White Dr,Santa Clara,CA,NaN,6,6,2018
+321,3798000.0,4210.0,902.1377672209026,5.0,3.0,3863 Chatham Ct,Redwood City,CA,Coldwell Banker Residential Brokerage - San Mateo-Downtown,6,6,2018
+322,309000.0,1160.0,266.37931034482756,3.0,2.0,2053 E Bayshore Rd SPC 64,Redwood City,CA,Alliance Manufactured Homes,6,6,2018
+323,1395000.0,1300.0,1073.076923076923,3.0,2.0,998 Emerald Hill Rd,Redwood City,CA,,6,6,2018
+324,1399000.0,1680.0,832.7380952380953,3.0,3.0,767 Roosevelt Ave,Redwood City,CA,"Dwell Realtors, Inc.",6,6,2018
+325,1798000.0,1953.0,920.6349206349206,3.0,2.0,450 Beresford Ave,Redwood City,CA,Coldwell Banker Residential Brokerage - Menlo Park,6,6,2018
+326,1287000.0,1280.0,1005.46875,3.0,2.0,1621 Alameda De Las Pulgas,Redwood City,CA,"Dwell Realtors, Inc.",6,6,2018
+327,799000.0,640.0,1248.4375,1.0,1.0,1 Vera Ct,Redwood City,CA,,6,6,2018
+328,2195000.0,3400.0,645.5882352941177,4.0,4.0,300 E Oakwood Blvd,Redwood City,CA,Coldwell Banker Residential Brokerage - San Francisco Pacific Heights,6,6,2018
+329,1198000.0,1000.0,1198.0,2.0,1.0,1168 Adams St,Redwood City,CA,,6,6,2018
+330,225000.0,504.0,446.4285714285714,1.0,1.0,1548 Maple St # 98,Redwood City,CA,Signature Realty & Mortgage,6,6,2018
+331,2188000.0,2276.0,961.3356766256592,4.0,4.0,2752 Kensington Rd,Redwood City,CA,KW Silicon City,6,6,2018
+332,1389998.0,1120.0,1241.0696428571428,3.0,1.0,128 Stanley St,Redwood City,CA,,6,6,2018
+333,1818000.0,2180.0,833.9449541284404,3.0,2.0,2115 Harding Ave,Redwood City,CA,,6,6,2018
+334,1699000.0,1510.0,1125.1655629139073,3.0,2.0,15 Winston Way,Redwood City,CA,Sereno Group,6,6,2018
+335,1150000.0,1720.0,668.6046511627908,3.0,2.0,327 Hemlock Ave,Redwood City,CA,,6,6,2018
+336,2495000.0,2530.0,986.1660079051384,4.0,3.0,1773 Hull Ave,Redwood City,CA,,6,6,2018
+337,2860000.0,3092.0,924.9676584734801,4.0,4.0,1745 Hull Ave,Redwood City,CA,,6,6,2018
+338,1080000.0,930.0,1161.2903225806454,2.0,1.0,1402 Arguello St,Redwood City,CA,,6,6,2018
+339,1395000.0,1280.0,1089.84375,3.0,2.0,319 San Carlos Ave,Redwood City,CA,,6,6,2018
+340,2690000.0,3620.0,743.0939226519338,5.0,4.0,1742 Kansas St,Redwood City,CA,Coldwell Banker Residential Brokerage - Redwood City - San Carlos,6,6,2018
+341,1049000.0,1200.0,874.1666666666665,2.0,2.0,1603 Chelsea Way,Redwood City,CA,Coldwell Banker Residential Brokerage - San Mateo-Downtown,6,6,2018
+342,1329000.0,1320.0,1006.8181818181821,3.0,2.0,1703 Roosevelt Ave,Redwood City,CA,,6,6,2018
+343,775000.0,2400.0,322.9166666666667,2.0,3.0,1548 Maple St # 107,Redwood City,CA,Signature Realty & Mortgage,6,6,2018
+344,1649000.0,1680.0,981.547619047619,3.0,2.0,717 Canyon Rd,Redwood City,CA,Zephyr Real Estate,6,6,2018
+345,2198000.0,2850.0,771.2280701754387,4.0,4.0,2602 Mcgarvey Ave,Redwood City,CA,Pacific Union International Inc.,6,6,2018
+346,2885000.0,2270.0,1270.9251101321586,3.0,3.0,28 Fulton St,Redwood City,CA,,6,6,2018
+347,3159000.0,3200.0,987.1875,4.0,4.0,3723 Jefferson Ct,Redwood City,CA,,6,6,2018
+348,1677950.0,2120.0,791.4858490566037,3.0,3.0,2105 Madison Ave,Redwood City,CA,Condor Commercial,6,6,2018
+349,1850000.0,1660.0,1114.4578313253012,3.0,2.0,132 Rutherford Ave,Redwood City,CA,Coldwell Banker Residential Brokerage - Woodside,6,6,2018
+350,4295000.0,7700.0,557.7922077922078,6.0,7.0,7 Colton Ct,Redwood City,CA,Coldwell Banker Residential Brokerage - Woodside,6,6,2018
+351,199900.0,1000.0,199.9,2.0,2.0,2053 E Bayshore Rd SPC 27,Redwood City,CA,Coldwell Banker C&C Properties,6,6,2018
+352,2075000.0,2235.0,928.4116331096196,3.0,3.0,4123 Fair Oaks Ave,Menlo Park,CA,Sereno Group,6,6,2018
+353,3950000.0,2608.0,1514.5705521472394,4.0,4.0,2167 Gordon Ave,Menlo Park,CA,Coldwell Banker Residential Brokerage - Woodside,6,6,2018
+354,3649000.0,2351.0,1552.1054870267972,4.0,4.0,36 Politzer Dr,Menlo Park,CA,,6,6,2018
+355,1995000.0,1870.0,1066.8449197860962,4.0,2.0,204 Haight St,Menlo Park,CA,Sereno Group,6,6,2018
+356,799000.0,800.0,998.75,1.0,1.0,2323 Eastridge Ave APT 513,Menlo Park,CA,Alain Pinel Realtors,6,6,2018
+357,2998000.0,1680.0,1784.5238095238094,3.0,2.0,615 Woodland Ave,Menlo Park,CA,Lafosse Asset Management,6,6,2018
+358,7500000.0,5335.0,1405.8106841611996,5.0,7.0,785 Berkeley Ave,Menlo Park,CA,Pacific Union International Inc.,6,6,2018
+359,1699000.0,1740.0,976.4367816091954,3.0,3.0,2142 Sand Hill Rd,Menlo Park,CA,Today Sotheby's International Realty,6,6,2018
+360,2098000.0,1610.0,1303.1055900621118,3.0,2.0,484 Oconnor St,Menlo Park,CA,Golden Gate Sotheby's International Realty,6,6,2018
+361,3998000.0,2650.0,1508.6792452830189,4.0,3.0,1840 Oakdell Dr,Menlo Park,CA,,6,6,2018
+362,2195000.0,1780.0,1233.1460674157304,4.0,2.0,220 Oakhurst Pl,Menlo Park,CA,,6,6,2018
+363,3795000.0,2520.0,1505.952380952381,4.0,3.0,187 E Creek Dr,Menlo Park,CA,,6,6,2018
+364,1799000.0,1513.0,1189.0284203569067,3.0,2.0,150 Alma St APT 215,Menlo Park,CA,Realty Source Incorporated,6,6,2018
+365,3499000.0,2150.0,1627.4418604651162,4.0,3.0,65 La Loma Dr,Menlo Park,CA,Coldwell Banker Residential Brokerage - Menlo Park,6,6,2018
+366,5375000.0,4240.0,1267.688679245283,4.0,4.0,5 Zachary Ct,Menlo Park,CA,Douglas Elliman,6,6,2018
+367,1688000.0,1661.0,1016.255267910897,2.0,2.0,2147 Avy Ave,Menlo Park,CA,,6,6,2018
+368,1649000.0,2050.0,804.390243902439,2.0,2.0,112 Sand Hill Cir,Menlo Park,CA,Pacific Union International Inc.,6,6,2018
+369,1988000.0,2220.0,895.4954954954953,3.0,3.0,158 Buckthorn Way,Menlo Park,CA,Deleon Realty,6,6,2018
+370,799000.0,800.0,998.75,1.0,1.0,2323 Eastridge Ave,Menlo Park,CA,,6,6,2018
+371,1190000.0,1140.0,1043.859649122807,3.0,1.0,1239 Madera Ave,Menlo Park,CA,GD Commercial,6,6,2018
+372,3250000.0,2311.0,1406.3176114236262,4.0,4.0,1980 Santa Cruz Ave,Menlo Park,CA,Today Sotheby's International Realty,6,6,2018
+373,5185000.0,3370.0,1538.5756676557864,5.0,4.0,1785 Croner Ave,Menlo Park,CA,,6,6,2018
+374,7998000.0,6500.0,1230.4615384615386,6.0,9.0,1050 Louise St,Menlo Park,CA,,6,6,2018
+375,2895000.0,1830.0,1581.967213114754,2.0,2.0,1709 Croner Ave,Menlo Park,CA,,6,6,2018
+376,1735000.0,1820.0,953.2967032967032,2.0,3.0,1256 Sharon Park Dr,Menlo Park,CA,Coldwell Banker Residential Brokerage - Menlo Park,6,6,2018
+377,1650000.0,1860.0,887.0967741935484,2.0,2.0,1230 Sharon Park Dr APT 64,Menlo Park,CA,Pacific Union International Inc.,6,6,2018
+378,2999000.0,1850.0,1621.081081081081,2.0,2.0,1330 University Dr APT 81,Menlo Park,CA,Yaeger Residential Brokerage,6,6,2018
+379,3500000.0,3030.0,1155.1155115511556,5.0,3.0,540 Encina Ave,Menlo Park,CA,Golden Gate Sotheby's International Realty,6,6,2018
+380,7995000.0,5819.0,1373.9474136449562,7.0,8.0,2315 Crest Ln,Menlo Park,CA,,6,6,2018
+381,2495000.0,2780.0,897.4820143884892,2.0,3.0,8 Mansion Ct # 722,Menlo Park,CA,,6,6,2018
+382,4995000.0,4420.0,1130.0904977375565,3.0,5.0,927 Continental Dr,Menlo Park,CA,Coldwell Banker Residential Brokerage - Menlo Park,6,6,2018
+383,1800000.0,1180.0,1525.4237288135596,3.0,2.0,1960 Santa Cruz Ave,Menlo Park,CA,,6,6,2018
+384,4998000.0,3700.0,1350.8108108108106,4.0,5.0,1868 Valparaiso Ave,Menlo Park,CA,,6,6,2018
+385,3798000.0,2591.0,1465.8433037437287,4.0,4.0,2098 Manzanita Ave,Menlo Park,CA,Coldwell Banker Residential Brokerage - Menlo Park,6,6,2018
+386,4488000.0,3313.0,1354.663447026864,5.0,5.0,1180 Cloud Ave,Menlo Park,CA,Golden Gate Sotheby's International Realty,6,6,2018
+387,2695000.0,1280.0,2105.46875,2.0,2.0,338 Santa Monica Ave,Menlo Park,CA,Sereno Group,6,6,2018
+388,2998000.0,1540.0,1946.7532467532467,3.0,2.0,621 Arbor Rd,Menlo Park,CA,,6,6,2018
+389,1499999.0,1230.0,1219.5113821138216,3.0,2.0,1223 Carlton Ave,Menlo Park,CA,Dean Adams Residential R.E.,6,6,2018
+390,3495000.0,3717.0,940.2744148506861,5.0,4.0,530 Palmer Ln,Menlo Park,CA,RE/MAX Star Properties,6,6,2018
+391,1895000.0,2220.0,853.6036036036038,2.0,3.0,1741 Stone Pine Ln,Menlo Park,CA,Alain Pinel Realtors,6,6,2018
+392,3942500.0,2818.0,1399.041873669269,5.0,4.0,101 Hillside Ave,Menlo Park,CA,Coldwell Banker Residential Brokerage - Menlo Park,6,6,2018
+393,4995000.0,4198.0,1189.8523106241064,5.0,5.0,1045 College Ave,Menlo Park,CA,,6,6,2018
+394,5550000.0,4304.0,1289.4981412639404,5.0,5.0,5 Lassen Ct,Menlo Park,CA,Deleon Realty,6,6,2018
+395,4995000.0,4340.0,1150.9216589861749,3.0,3.0,1020 Monte Rosa Dr,Menlo Park,CA,Martin & Martin,6,6,2018
+396,3488000.0,2910.0,1198.6254295532647,3.0,3.0,583 Patricia Ln,Palo Alto,CA,Deleon Realty,6,6,2018
+397,1788000.0,1329.0,1345.3724604966142,3.0,2.0,433 Monroe Dr,Palo Alto,CA,Deleon Realty,6,6,2018
+398,1795000.0,1329.0,1350.6395786305493,3.0,2.0,3931 Park Blvd,Palo Alto,CA,Coldwell Banker Residential Brokerage - Menlo Park,6,6,2018
+399,2998000.0,2298.0,1304.6127067014795,4.0,3.0,633 Channing Ave,Palo Alto,CA,,6,6,2018
+400,1888888.0,1337.0,1412.7808526551983,3.0,2.0,325 Fernando Ave,Palo Alto,CA,,6,6,2018
+401,3999888.0,3178.0,1258.6179987413468,5.0,5.0,490 Loma Verde Ave,Palo Alto,CA,,6,6,2018
+402,2589000.0,897.0,2886.28762541806,2.0,1.0,128 Middlefield Rd,Palo Alto,CA,,6,6,2018
+403,3898000.0,2625.0,1484.952380952381,4.0,4.0,3687 Bryant St,Palo Alto,CA,,6,6,2018
+404,6395000.0,3416.0,1872.0725995316159,5.0,5.0,161 Bryant St,Palo Alto,CA,Golden Gate Sotheby's International Realty,6,6,2018
+405,2798000.0,1754.0,1595.2109464082098,4.0,2.0,3519 Ross Rd,Palo Alto,CA,,6,6,2018
+406,10888000.0,6068.0,1794.3309162821356,7.0,7.0,1565 Edgewood Dr,Palo Alto,CA,Deleon Realty,6,6,2018
+407,3875000.0,2778.0,1394.8884089272858,5.0,4.0,2011 Park Blvd,Palo Alto,CA,,6,6,2018
+408,1828000.0,1392.0,1313.2183908045974,2.0,2.5,707 Webster St,Palo Alto,CA,Vendre Properties,6,6,2018
+409,1478000.0,1135.0,1302.2026431718061,2.0,2.0,410 Sheridan Ave APT 455,Palo Alto,CA,,6,6,2018
+410,7988000.0,4448.0,1795.863309352518,5.0,4.0,1818 Bryant St,Palo Alto,CA,Deleon Realty,6,6,2018
+411,3500000.0,1001.0,3496.5034965034965,2.0,1.0,2135 Emerson St,Palo Alto,CA,Prochnow Realtors,6,6,2018
+412,4998000.0,5292.0,944.4444444444445,5.0,5.0,3513 Waverley St,Palo Alto,CA,Pacific Union International Inc.,6,6,2018
+413,3648000.0,2830.0,1289.0459363957598,5.0,3.0,124 Lundy Ln,Palo Alto,CA,Pacific Union International Inc.,6,6,2018
+414,5998000.0,2475.0,2423.4343434343436,5.0,3.0,1239 Martin Ave,Palo Alto,CA,,6,6,2018
+415,7988000.0,3376.0,2366.113744075829,5.0,5.0,1117 Hamilton Ave,Palo Alto,CA,Deleon Realty,6,6,2018
+416,2998000.0,2312.0,1296.712802768166,5.0,4.0,794 Los Robles Ave,Palo Alto,CA,Sereno Group,6,6,2018
+417,2698000.0,1765.0,1528.6118980169974,3.0,2.0,3618 Louis Rd,Palo Alto,CA,,6,6,2018
+418,1548000.0,1263.0,1225.6532066508314,2.0,2.0,500 Fulton St APT 104,Palo Alto,CA,Sean Proctor Real Estate,6,6,2018
+419,1698000.0,1826.0,929.9014238773276,3.0,3.0,444 San Antonio Rd APT 1B,Palo Alto,CA,,6,6,2018
+420,10988000.0,7743.0,1419.0882087046366,5.0,6.0,1535 Edgewood Dr,Palo Alto,CA,,6,6,2018
+421,4599000.0,3085.0,1490.7617504051864,4.0,3.0,1035 Los Robles Ave,Palo Alto,CA,K&K Realty  Inc,6,6,2018
+422,1999000.0,1721.0,1161.5339918651946,3.0,1.0,1031 Embarcadero Rd,Palo Alto,CA,Better Homes and Gardens Real Estate Ventura Barnett Properties,6,6,2018
+423,4500000.0,3487.0,1290.5075996558646,5.0,4.0,152 Melville Ave,Palo Alto,CA,Golden Gate Sotheby's International Realty,6,6,2018
+424,1499000.0,1354.0,1107.0901033973414,2.0,2.0,555 Byron St APT 207,Palo Alto,CA,,6,6,2018
+425,6995000.0,7555.0,925.8769027134348,6.0,7.0,931 Laurel Glen Dr,Palo Alto,CA,,6,6,2018
+426,7798000.0,3131.0,2490.578090067071,4.0,4.0,1301 Hamilton Ave,Palo Alto,CA,,6,6,2018
+427,7800000.0,3827.0,2038.149986934936,5.0,5.0,1437 Hamilton Ave,Palo Alto,CA,,6,6,2018
+428,2590000.0,1245.0,2080.3212851405624,3.0,1.0,280 Matadero Ave,Palo Alto,CA,,6,6,2018
+429,1695000.0,1589.0,1066.708621774701,2.0,2.0,555 Byron St APT 304,Palo Alto,CA,,6,6,2018
+430,7290000.0,6260.0,1164.5367412140574,4.0,5.0,976 Laurel Glen Dr,Palo Alto,CA,,6,6,2018
+431,4998000.0,3503.0,1426.7770482443618,5.0,7.0,931 Clara Dr,Palo Alto,CA,DPL Real Estate,6,6,2018
+432,8950000.0,5675.0,1577.092511013216,4.0,5.0,1441 Edgewood Dr,Palo Alto,CA,,6,6,2018
+433,4380000.0,3080.0,1422.077922077922,4.0,2.0,1099 Los Robles Ave,Palo Alto,CA,,6,6,2018
+434,1995000.0,1088.0,1833.639705882353,3.0,2.0,992 Boranda Ave,Mountain View,CA,Sereno Group,6,6,2018
+435,1549000.0,1366.0,1133.9677891654464,3.0,3.0,1512 Wildrose Way,Mountain View,CA,Coldwell Banker Residential Brokerage - Menlo Park,6,6,2018
+436,998888.0,1199.0,833.1009174311928,2.0,2.0,13 Morning Sun Ct,Mountain View,CA,,6,6,2018
+437,999888.0,1206.0,829.094527363184,2.0,2.0,49 Showers Dr APT N168,Mountain View,CA,,6,6,2018
+438,285000.0,1455.0,195.87628865979386,3.0,2.0,1075 Space Park Way SPC 358,Mountain View,CA,Alliance Manufactured Homes,6,6,2018
+439,1998000.0,1322.0,1511.3464447806355,3.0,2.0,1759 Begen Ave,Mountain View,CA,,6,6,2018
+440,1198000.0,1401.0,855.1034975017842,2.0,3.0,25 Sherland Ave # B,Mountain View,CA,,6,6,2018
+441,1448000.0,1580.0,916.4556962025316,3.0,3.0,2034 San Luis Ave APT 5,Mountain View,CA,Sereno Group,6,6,2018
+442,1148800.0,1274.0,901.7268445839876,2.0,2.0,233 Horizon Ave,Mountain View,CA,Coldwell Banker Residential Brokerage - San Jose-Willow Glen,6,6,2018
+443,749000.0,894.0,837.8076062639819,2.0,1.0,280 Easy St APT 414,Mountain View,CA,Coldwell Banker Residential Brokerage - Palo Alto Downtown,6,6,2018
+444,369000.0,1458.0,253.08641975308643,3.0,2.0,325 Sylvan Ave SPC 83,Mountain View,CA,Alliance Manufactured Homes,6,6,2018
+445,1195000.0,1236.0,966.8284789644013,2.0,3.0,446 Bedford Loop,Mountain View,CA,Coldwell Banker Residential Brokerage - Cupertino,6,6,2018
+446,1998000.0,1703.0,1173.2237228420433,3.0,2.0,1294 Cuernavaca Circulo,Mountain View,CA,,6,6,2018
+447,998000.0,998.0,1000.0,2.0,2.0,905 W Middlefield Rd APT 992,Mountain View,CA,Better Homes and Gardens Real Estate J.F. Finnegan Realtors,6,6,2018
+448,925000.0,1012.0,914.0316205533596,2.0,2.0,183 Del Medio Ave APT 302,Mountain View,CA,Sereno Group,6,6,2018
+449,1249000.0,1150.0,1086.0869565217392,2.0,2.0,743 Cottage Ct,Mountain View,CA,ASJ Real Estate Investments,6,6,2018
+450,1200000.0,1084.0,1107.0110701107012,3.0,2.0,98 Flynn Ave APT A,Mountain View,CA,,6,6,2018
+451,2395000.0,2667.0,898.0127484064493,4.0,4.0,575 Boranda Ct,Mountain View,CA,Realty World - Kevin F. Garvey,6,6,2018
+452,331000.0,1680.0,197.02380952380955,3.0,2.0,433 Sylvan Ave SPC 82,Mountain View,CA,Alliance Manufactured Homes,6,6,2018
+453,2788000.0,2174.0,1282.4287028518859,5.0,4.0,1806 Limetree Ln,Mountain View,CA,,6,6,2018
+454,1649000.0,1772.0,930.5869074492099,4.0,4.0,230 Bryant St APT 8,Mountain View,CA,Coldwell Banker Residential Brokerage - Los Gatos,6,6,2018
+455,1970000.0,1053.0,1870.8452041785367,3.0,1.0,372 Farley St,Mountain View,CA,,6,6,2018
+456,1425000.0,1594.0,893.9774153074028,2.0,3.0,469 Kasra Dr,Mountain View,CA,KW Silicon City,6,6,2018
+457,1795000.0,1314.0,1366.0578386605785,3.0,2.0,1128 Phyllis Ave,Mountain View,CA,Sereno Group,6,6,2018
+458,748000.0,662.0,1129.9093655589124,1.0,1.0,505 Cypress Point Dr UNIT 94,Mountain View,CA,Better Homes and Gardens Real Estate J.F. Finnegan Realtors,6,6,2018
+459,229000.0,1040.0,220.1923076923077,3.0,2.0,433 Sylvan Ave SPC 101,Mountain View,CA,Alliance Manufactured Homes,6,6,2018
+460,299000.0,1160.0,257.7586206896552,2.0,2.0,325 Sylvan Ave SPC 28,Mountain View,CA,Pams Homes,6,6,2018
+461,1970000.0,832.0,2367.788461538461,3.0,1.0,394 Farley St,Mountain View,CA,,6,6,2018
+462,128999.0,624.0,206.72916666666663,2.0,1.0,2855 Senter Rd SPC 41,San Jose,CA,Intero Real Estate Services,6,6,2018
+463,219000.0,1040.0,210.5769230769231,2.0,2.0,325 Sylvan Ave SPC 80,Mountain View,CA,Alliance Manufactured Homes,6,6,2018
+464,3700000.0,1290.0,2868.2170542635663,3.0,2.0,1107 High School Way,Mountain View,CA,"Reza Khan, Broker",6,6,2018
+465,2250000.0,1452.0,1549.5867768595044,3.0,2.0,309 Vincent Dr,Mountain View,CA,VS Realty & Loans Inc,6,6,2018
+466,1860000.0,930.0,2000.0,3.0,1.0,201 Granada Dr,Mountain View,CA,HomeCoin.com,6,6,2018
+467,279000.0,1244.0,224.2765273311897,3.0,2.0,191 E El Camino Real SPC 124,Mountain View,CA,,6,6,2018
+468,319000.0,1316.0,242.40121580547108,3.0,2.0,325 Sylvan Ave SPC 42,Mountain View,CA,Alliance Manufactured Homes,6,6,2018
+469,269000.0,1150.0,233.91304347826087,3.0,2.0,433 Sylvan Ave SPC 115,Mountain View,CA,"Alliance Manufactured Homes, Inc.",6,6,2018
+470,169900.0,960.0,176.97916666666663,3.0,1.0,2855 Senter Rd SPC 37,San Jose,CA,,6,6,2018
+471,229000.0,1040.0,220.1923076923077,2.0,2.0,433 Sylvan Ave SPC 103,Mountain View,CA,Mandala Properties,6,6,2018
+472,698000.0,564.0,1237.5886524822695,1.0,1.0,500 W Middlefield Rd APT 71,Mountain View,CA,,6,6,2018
+473,3888000.0,3458.0,1124.3493348756506,5.0,5.0,59 Devonshire Ave,Mountain View,CA,,6,6,2018
+474,1150000.0,1206.0,953.5655058043117,2.0,2.0,2111 Latham St APT 221,Mountain View,CA,,6,6,2018
+475,2998000.0,2195.0,1365.8314350797266,4.0,3.0,520 Benvenue Ave,Los Altos,CA,,6,6,2018
+476,16788000.0,9677.0,1734.8351761909682,6.0,11.0,10718 Mora Dr,Los Altos,CA,The Agency,6,6,2018
+477,3298000.0,2665.0,1237.5234521575985,4.0,3.0,2 Yerba Buena Ave,Los Altos,CA,Pacific Union International Inc.,6,6,2018
+478,2698000.0,1912.0,1411.0878661087866,3.0,3.0,339 Hawthorne Ave,Los Altos,CA,Sereno Group,6,6,2018
+479,2998000.0,2266.0,1323.036187113857,4.0,3.0,360 Lunada Dr,Los Altos,CA,,6,6,2018
+480,2595000.0,1598.0,1623.9048811013768,3.0,3.0,462 Panchita Way,Los Altos,CA,Realty World - Showcase Properties,6,6,2018
+481,2548000.0,1424.0,1789.3258426966293,4.0,3.0,837 Berry Ave,Los Altos,CA,,6,6,2018
+482,3995000.0,2172.0,1839.318600368324,3.0,2.0,119 Coronado Ave,Los Altos,CA,Sereno Group,6,6,2018
+483,1858000.0,1406.0,1321.4793741109531,2.0,2.0,396 1st St # 13,Los Altos,CA,,6,6,2018
+484,2880000.0,1498.0,1922.5634178905207,3.0,2.0,260 Hawthorne Ave,Los Altos,CA,Homeland Mortgage and Real Estate,6,6,2018
+485,5700000.0,4060.0,1403.9408866995075,4.0,4.0,295 Covington Rd,Los Altos,CA,,6,6,2018
+486,3799800.0,3395.0,1119.2341678939617,5.0,5.0,300 Cuesta Dr,Los Altos,CA,O Homez Inc,6,6,2018
+487,3698000.0,1763.0,2097.560975609756,4.0,2.0,219 Portola Ct,Los Altos,CA,,6,6,2018
+488,2988000.0,763.0,3916.120576671036,2.0,1.0,600 Palm Ave,Los Altos,CA,Coldwell Banker Residential Brokerage - Los Altos,6,6,2018
+489,3600000.0,3527.0,1020.697476609016,5.0,5.0,934 Riverside Dr,Los Altos,CA,,6,6,2018
+490,2099000.0,1840.0,1140.7608695652175,2.0,2.0,26 Deep Well Ln,Los Altos,CA,,6,6,2018
+491,7100000.0,5150.0,1378.6407766990292,6.0,8.0,1530 Arbor Ave,Los Altos,CA,,6,6,2018
+492,3198000.0,2089.0,1530.8760172331256,4.0,2.0,1274 Saint Mark Ct,Los Altos,CA,Benson Real Estate,6,6,2018
+493,6800000.0,3985.0,1706.3989962358844,5.0,4.0,830 Arroyo Rd,Los Altos,CA,Sereno Group,6,6,2018
+494,5880000.0,5600.0,1050.0,5.0,7.0,168 Loucks Ave,Los Altos,CA,,6,6,2018
+495,6495000.0,4300.0,1510.4651162790694,5.0,5.0,290 Quinnhill Rd,Los Altos,CA,Sereno Group,6,6,2018
+496,3500000.0,3378.0,1036.1160449970396,3.0,5.0,10999 Terry Way,Los Altos,CA,Sereno Group,6,6,2018
+497,4699999.0,4450.0,1056.1795505617977,5.0,6.0,780 S El Monte Ave,Los Altos,CA,Realty World - Alliance,6,6,2018
+498,3800000.0,3132.0,1213.2822477650066,3.0,3.0,1551 Julie Ln,Los Altos,CA,CENTURY 21 Lad Realty,6,6,2018
+499,1999000.0,1430.0,1397.9020979020981,2.0,3.0,740 Francisco St,San Francisco,CA,Jackson Stieb Action RE,6,6,2018
+500,1499000.0,1550.0,967.0967741935484,3.0,1.0,2059 Hayes St,San Francisco,CA,Berkshire Hathaway-Franciscan,6,6,2018
+501,1075000.0,840.0,1279.7619047619048,1.0,1.0,401 Harrison St APT 16A,San Francisco,CA,Compass,6,6,2018
+502,7200000.0,2172.0,3314.917127071824,4.0,5.0,1372 Francisco St,San Francisco,CA,Sotheby's International Realty,6,6,2018
+503,899000.0,815.0,1103.0674846625766,2.0,1.5,1930 Hayes St APT 4,San Francisco,CA,Paragon Real Estate Group,6,6,2018
+504,699000.0,693.0,1008.6580086580086,1.0,1.0,260 King St UNIT 531,San Francisco,CA,Real Estate eBroker,6,6,2018
+505,829000.0,1420.0,583.8028169014085,2.0,1.0,940 Anna St,San Mateo,CA,Berkshire Hathaway Home Services California Realty,6,6,2018
+506,1498000.0,1780.0,841.5730337078653,3.0,2.0,3413 Westwood Ct,San Mateo,CA,Sefanov Realty,6,6,2018
+507,779950.0,974.0,800.7700205338809,2.0,1.0,932 Peninsula Ave APT 308,San Mateo,CA,Dumas & Company,6,6,2018
+508,880000.0,1054.0,834.9146110056926,3.0,1.0,1576 Marina Ct UNIT C,San Mateo,CA,Maxreal,6,6,2018
+509,2845000.0,2927.0,971.9849675435601,4.0,4.0,3111 Mena Dr,San Mateo,CA,,6,6,2018
+510,2640000.0,2542.0,1038.552321007081,3.0,4.0,3107 Mena Dr,San Mateo,CA,,6,6,2018
+511,2770000.0,2884.0,960.4715672676836,4.0,5.0,3103 Mena Dr,San Mateo,CA,,6,6,2018
+512,3698000.0,3000.0,1232.6666666666667,4.0,4.0,105 W Bellevue Ave # W,San Mateo,CA,,6,6,2018
+513,1595000.0,1770.0,901.1299435028247,3.0,2.0,210 Hobart Ave,San Mateo,CA,,6,6,2018
+514,875000.0,1115.0,784.7533632286995,2.0,3.0,1925 Vista Cay,San Mateo,CA,Coldwell Banker Residential Brokerage - Redwood City - San Carlos,6,6,2018
+515,2088000.0,2684.0,777.9433681073026,4.0,3.0,2614 Isabelle Ave,San Mateo,CA,Reside Real Estate,6,6,2018
+516,1288000.0,1530.0,841.8300653594771,5.0,3.0,1548 Lodi Ave,San Mateo,CA,Better Homes and Gardens Real Estate J.F. Finnegan Realtors,6,6,2018
+517,799000.0,1150.0,694.7826086956521,2.0,2.0,58 N Camino Real # 210,San Mateo,CA,,6,6,2018
+518,1499000.0,1800.0,832.7777777777777,3.0,2.0,23 Del Monte Pl,San Mateo,CA,Coldwell Banker Residential Brokerage - San Mateo-Downtown,6,6,2018
+519,838000.0,1060.0,790.566037735849,2.0,2.0,249 Elm St APT 204,San Mateo,CA,,6,6,2018
+520,875000.0,1115.0,784.7533632286995,2.0,3.0,1908 Vista Cay # 3,San Mateo,CA,,6,6,2018
+521,1600000.0,2080.0,769.2307692307692,3.0,2.0,1411 Palm Ave,San Mateo,CA,,6,6,2018
+522,799000.0,1150.0,694.7826086956521,2.0,2.0,58 N El Camino Real APT 210,San Mateo,CA,Alain Pinel Realtors,6,6,2018
+523,768000.0,904.0,849.5575221238937,2.0,1.0,1453 Via Vis,San Mateo,CA,Realty World - Martinelli Properties,6,6,2018
+524,895000.0,1200.0,745.8333333333335,2.0,2.0,58 N El Camino Real APT 111,San Mateo,CA,Nest Property,6,6,2018
+525,828000.0,1070.0,773.8317757009346,2.0,2.0,1406 Via Vis,San Mateo,CA,Today Sotheby's International Realty,6,6,2018
+526,1329888.0,2000.0,664.944,4.0,2.0,521 E 16th Ave # E,San Mateo,CA,Better Homes and Gardens Real Estate J.F. Finnegan Realtors,6,6,2018
+527,1325000.0,1750.0,757.1428571428571,3.0,3.0,1355 Wayne Way,San Mateo,CA,Coldwell Banker Residential Brokerage - Cupertino,6,6,2018
+528,1188000.0,1100.0,1080.0,3.0,1.0,517 Poinsettia Ave,San Mateo,CA,Re/Max Synergy Group,6,6,2018
+529,2389000.0,2319.0,1030.1854247520482,4.0,4.0,3122 Hacienda St,San Mateo,CA,Signature Realty & Mortgage,6,6,2018
+530,1498000.0,2020.0,741.5841584158417,4.0,3.0,3936 Regan Dr,San Mateo,CA,,6,6,2018
+531,1125000.0,1375.0,818.1818181818181,3.0,2.0,2405 Elliott St,San Mateo,CA,Gilmartin Group,6,6,2018
+532,3095000.0,3151.0,982.2278641701047,4.0,4.0,512 Parrott Dr,San Mateo,CA,,6,6,2018
+533,1325000.0,1310.0,1011.4503816793894,3.0,2.0,29 Ontario St,San Mateo,CA,Signature Realty & Mortgage,6,6,2018
+534,1395000.0,1750.0,797.1428571428571,3.0,2.0,1778 Brooks St,San Mateo,CA,Vincent C. Scherba Real Estate,6,6,2018
+535,628000.0,729.0,861.4540466392317,1.0,1.0,401 S Norfolk St APT 121,San Mateo,CA,Coldwell Banker Residential Brokerage - San Francisco Pacific Heights,6,6,2018
+536,1399000.0,1540.0,908.4415584415584,4.0,2.0,2842 Hosmer St,San Mateo,CA,Infinite Real Estate,6,6,2018
+537,2999888.0,4060.0,738.888669950739,4.0,4.0,791 Crystal Springs Rd,San Mateo,CA,,6,6,2018
+538,1788000.0,2268.0,788.3597883597884,4.0,3.0,2606 Carlmont Dr,Belmont,CA,Coldwell Banker Residential Brokerage - San Mateo-Downtown,6,6,2018
+539,1300000.0,1440.0,902.7777777777776,3.0,1.0,1121 Granada St,Belmont,CA,,6,6,2018
+540,2378000.0,2852.0,833.8008415147266,4.0,4.0,2223 Thurm Ave,Belmont,CA,Sereno Group,6,6,2018
+541,1799000.0,1940.0,927.319587628866,4.0,3.0,1903 Bayview Ave,Belmont,CA,Coldwell Banker Residential Brokerage - San Mateo-Downtown,6,6,2018
+542,1698000.0,1920.0,884.375,3.0,2.0,1104 Tahoe Dr,Belmont,CA,,6,6,2018
+543,1400000.0,2420.0,578.5123966942149,3.0,2.0,1716 Hillman Ave,Belmont,CA,Girouard Properties,6,6,2018
+544,2798000.0,3070.0,911.400651465798,4.0,4.0,1768 Terrace Dr,Belmont,CA,Coldwell Banker Residential Brokerage - San Mateo-Downtown,6,6,2018
+545,1230000.0,1713.0,718.0385288966725,3.0,3.0,300 Davey Glen Rd APT 3621,Belmont,CA,,6,6,2018
+546,2900000.0,2500.0,1160.0,4.0,3.0,2640 Wakefield Dr,Belmont,CA,,6,6,2018
+547,1899000.0,1890.0,1004.7619047619047,3.0,2.0,2614 Ponce Ave,Belmont,CA,Climb Real Estate,6,6,2018
+548,2599000.0,2495.0,1041.683366733467,4.0,3.0,2884 Wakefield Dr,Belmont,CA,Coldwell Banker Residential Brokerage - Burlingame,6,6,2018
+549,2295000.0,1140.0,2013.157894736842,3.0,2.0,465 Wayside Rd,Portola Valley,CA,Kerwin & Associates,6,6,2018
+550,6800000.0,4900.0,1387.7551020408166,8.0,5.0,140 Willowbrook Dr,Portola Valley,CA,Coldwell Banker Residential Brokerage - Portola Valley,6,6,2018
+551,13500000.0,9130.0,1478.6418400876232,5.0,7.0,707 Westridge Dr,Portola Valley,CA,Coldwell Banker Residential Brokerage - Menlo Park,6,6,2018
+552,6495000.0,4670.0,1390.7922912205565,5.0,7.0,1 Applewood Ln,Portola Valley,CA,Coldwell Banker Residential Brokerage - Woodside,6,6,2018
+553,16500000.0,6610.0,2496.2178517397883,5.0,5.0,880 Westridge Dr,Portola Valley,CA,Coldwell Banker Residential Brokerage - Menlo Park,6,6,2018
+554,7998000.0,5595.0,1429.490616621984,4.0,4.0,6 Redberry Rdg,Portola Valley,CA,,6,6,2018
+555,6595000.0,5542.0,1190.0036088054853,5.0,6.0,1305 Westridge Dr,Portola Valley,CA,Golden Gate Sotheby's International Realty,6,6,2018
+556,4695000.0,3600.0,1304.1666666666667,5.0,3.0,20 Sioux Way,Portola Valley,CA,,6,6,2018
+557,6800000.0,4700.0,1446.8085106382978,3.0,4.0,360 Golden Oak Dr,Portola Valley,CA,Coldwell Banker Residential Brokerage - Portola Valley,6,6,2018
+558,4900000.0,3600.0,1361.111111111111,3.0,2.0,100 Alamos Rd,Portola Valley,CA,,6,6,2018
+559,5695000.0,3900.0,1460.2564102564102,4.0,4.0,133 Ash Ln,Portola Valley,CA,,6,6,2018
+560,3395000.0,4370.0,776.8878718535469,5.0,4.0,900 Wayside Rd,Portola Valley,CA,Coldwell Banker Residential Brokerage - Woodside,6,6,2018
+561,16988000.0,6808.0,2495.2996474735605,5.0,8.0,127 Pinon Dr,Portola Valley,CA,Deleon Realty,6,6,2018
+562,799000.0,1040.0,768.2692307692308,3.0,1.0,736 Crespi Dr,Pacifica,CA,"SF Homelife, Inc.",6,6,2018
+563,925000.0,1000.0,925.0,3.0,1.0,104 Lorry Ln,Pacifica,CA,Eccleston Incorporated,6,6,2018
+564,949000.0,1120.0,847.3214285714287,3.0,2.0,1165 Manzanita Dr,Pacifica,CA,,6,6,2018
+565,1150000.0,1490.0,771.8120805369127,3.0,2.0,1088 Park Pacifica Ave,Pacifica,CA,BC Home Realty,6,6,2018
+566,848888.0,1340.0,633.4985074626866,3.0,2.0,1011 Rio Vista Dr,Pacifica,CA,,6,6,2018
+567,1100000.0,1230.0,894.3089430894307,3.0,2.0,5 Pt Reyes Way,Pacifica,CA,"Coldwell Banker Fahey Properties, Inc.",6,6,2018
+568,749000.0,1380.0,542.7536231884059,3.0,3.0,1299 Rosita Rd,Pacifica,CA,RE/MAX Star Properties,6,6,2018
+569,1188000.0,1600.0,742.5,4.0,2.0,1023 Yosemite Dr,Pacifica,CA,RE/MAX Star Properties,6,6,2018
+570,958000.0,1690.0,566.8639053254437,4.0,2.0,1047 Rio Vista Dr,Pacifica,CA,Excel Realty,6,6,2018
+571,888000.0,1300.0,683.0769230769231,2.0,3.0,909 Fassler Ave,Pacifica,CA,Coldwell Banker Residential Brokerage - Half Moon Bay,6,6,2018
+572,899000.0,1040.0,864.4230769230769,3.0,1.0,1168 Cervantes Way,Pacifica,CA,Coldwell Banker Residential Brokerage - San Francisco Market Street,6,6,2018
+573,1458888.0,2520.0,578.9238095238095,3.0,3.0,518 Sea Spray Ct,Pacifica,CA,Reali,6,6,2018
+574,659000.0,1100.0,599.0909090909091,2.0,2.0,1148 Terra Nova Blvd,Pacifica,CA,"Home Sales Team, Inc.",6,6,2018
+575,899000.0,1080.0,832.4074074074074,3.0,2.0,201 Hillside Dr,Pacifica,CA,Berkshire Hathaway Home Services California Realty,6,6,2018
+576,1250000.0,2190.0,570.7762557077625,4.0,3.0,1145 Banyan Way,Pacifica,CA,Marissa Reyes,6,6,2018
+577,898000.0,1215.0,739.0946502057616,3.0,2.0,267 Seaside Dr,Pacifica,CA,,6,6,2018
+578,1750000.0,2520.0,694.4444444444445,3.0,3.0,1391 Peralta Rd,Pacifica,CA,,6,6,2018
+579,2350000.0,3175.0,740.1574803149606,4.0,4.0,35 Malavear Dr,Pacifica,CA,Coastside Associates Real Estate,6,6,2018
+580,1549000.0,2339.0,662.248824283882,4.0,3.5,27 Montecito Ave,Pacifica,CA,Engel & Volkers San Francisco,6,6,2018
+581,3000000.0,4980.0,602.4096385542167,6.0,6.0,298 Juanita Ave,Pacifica,CA,,6,6,2018
+582,899000.0,940.0,956.3829787234042,3.0,1.0,635 Rockaway Beach Ave,Pacifica,CA,,6,6,2018
+583,2299000.0,2338.0,983.3190761334474,4.0,3.0,18940 Newsom Ave,Cupertino,CA,Coldwell Banker,6,6,2018
+584,1748000.0,1127.0,1551.0204081632653,3.0,2.0,18645 Ralya Ct,Cupertino,CA,Maxreal,6,6,2018
+585,2548000.0,2349.0,1084.716900808855,3.0,3.0,10285 Scenic Blvd,Cupertino,CA,Intero Real Estate Services,6,6,2018
+586,2998000.0,3030.0,989.4389438943897,4.0,3.0,10525 Madrone Ct,Cupertino,CA,Intero Real Estate Services,6,6,2018
+587,1680000.0,1670.0,1005.9880239520958,3.0,3.0,10280 Park Green Ln UNIT 836,Cupertino,CA,Intero Real Estate Services,6,6,2018
+588,1249000.0,1487.0,839.946200403497,2.0,2.0,20051 Northwood Dr,Cupertino,CA,,6,6,2018
+589,2588000.0,2300.0,1125.2173913043478,5.0,3.0,21683 Castleton St,Cupertino,CA,Coldwell Banker Residential Brokerage - Cupertino,6,6,2018
+590,1758000.0,1499.0,1172.7818545697132,4.0,2.0,622 Miller Ave,Cupertino,CA,Coldwell Banker Residential Brokerage - Los Gatos,6,6,2018
+591,1245000.0,1385.0,898.9169675090253,2.0,3.0,11030 Firethorne Dr,Cupertino,CA,Redfin,6,6,2018
+592,1299000.0,1487.0,873.5709482178884,3.0,2.0,10826 Northridge Sq,Cupertino,CA,,6,6,2018
+593,3688000.0,3659.0,1007.9256627493852,5.0,4.0,10115 Lockwood Dr,Cupertino,CA,Maxreal,6,6,2018
+594,1088000.0,1154.0,942.8076256499132,2.0,2.0,10259 Nile Dr,Cupertino,CA,Maxreal,6,6,2018
+595,1899000.0,1008.0,1883.928571428572,2.0,1.0,10690 Cordova Rd,Cupertino,CA,Coldwell Banker Residential Brokerage - Cupertino,6,6,2018
+596,3968000.0,3623.0,1095.2249516974882,5.0,5.0,10240 Lebanon Dr,Cupertino,CA,U16818 Financial Services,6,6,2018
+597,1399999.0,1454.0,962.8603851444293,3.0,2.0,18770 Newsom Ave,Cupertino,CA,CENTURY 21 Alpha,6,6,2018
+598,2988000.0,1687.0,1771.1914641375222,4.0,3.0,10573 Cedar Tree Ct,Cupertino,CA,,6,6,2018
+599,2998000.0,2570.0,1166.5369649805448,5.0,4.0,10636 Wunderlich Dr,Cupertino,CA,,6,6,2018
+600,2288000.0,2176.0,1051.4705882352941,4.0,2.0,10210 E Estates Dr,Cupertino,CA,Amici Real Estate,6,6,2018
+601,2398000.0,1510.0,1588.0794701986756,4.0,3.0,7877 Belknap Dr,Cupertino,CA,Premier Century Real Estate Services,6,6,2018
+602,1088000.0,1199.0,907.4228523769807,2.0,2.0,20683 Celeste Cir,Cupertino,CA,Coldwell Banker Residential Brokerage - Cupertino,6,6,2018
+603,2950000.0,600.0,4916.666666666667,2.0,1.0,22344 Regnart Rd,Cupertino,CA,Coldwell Banker Residential Brokerage - Saratoga,6,6,2018
+604,2588888.0,1989.0,1301.6028154851685,4.0,2.0,10180 N Blaney Ave,Cupertino,CA,,6,6,2018
+605,2868000.0,2813.0,1019.552079630288,5.0,4.0,10204 Byrne Ave,Cupertino,CA,Legacy Real Estate & Assoc,6,6,2018
+606,1788888.0,1388.0,1288.8242074927955,3.0,2.0,873 Lily Ave,Cupertino,CA,,6,6,2018
+607,3688888.0,3618.0,1019.5931453841902,6.0,4.0,10460 S Foothill Blvd,Cupertino,CA,Coldwell Banker Residential Brokerage - Cupertino,6,6,2018
+608,1295000.0,1017.0,1273.3529990167158,2.0,2.0,22732 Majestic Oak Way,Cupertino,CA,,6,6,2018
+609,1088000.0,913.0,1191.6757940854327,3.0,1.0,216 E Arbor Ave,Sunnyvale,CA,,6,6,2018
+610,1249950.0,1280.0,976.5234375,2.0,3.0,977 Wisteria Ter,Sunnyvale,CA,Image Real Estate,6,6,2018
+611,1199000.0,1239.0,967.7158999192895,2.0,3.0,585 San Rivera Ter,Sunnyvale,CA,Coldwell Banker Residential Brokerage - Saratoga,6,6,2018
+612,899000.0,996.0,902.6104417670683,2.0,2.0,612 San Conrado Ter UNIT 7,Sunnyvale,CA,Maxreal Property,6,6,2018
+613,998000.0,1168.0,854.4520547945206,2.0,2.0,1000 Chula Vista Ter,Sunnyvale,CA,Alain Pinel Realtors,6,6,2018
+614,1998000.0,1759.0,1135.8726549175667,4.0,2.0,458 Pin Oak Dr,Sunnyvale,CA,Coldwell Banker Residential Brokerage - San Jose-Willow Glen,6,6,2018
+615,1800000.0,1571.0,1145.7670273711012,3.0,3.0,1561 Oak Point Ter,Sunnyvale,CA,Maxreal Property,6,6,2018
+616,2098000.0,2333.0,899.2713244749249,5.0,3.0,855 Rubis Dr,Sunnyvale,CA,,6,6,2018
+617,1298000.0,1356.0,957.227138643068,3.0,3.0,720 Blair Ct APT C,Sunnyvale,CA,Coldwell Banker Residential Brokerage - Cupertino,6,6,2018
+618,199000.0,1947.0,102.2085259373395,2.0,2.0,690 Persian Dr SPC 64,Sunnyvale,CA,Alliance Manufactured Homes,6,6,2018
+619,1780000.0,1553.0,1146.1687057308436,4.0,2.0,1413 S Wolfe Rd,Sunnyvale,CA,Redfin,6,6,2018
+620,1399000.0,1469.0,952.3485364193327,3.0,3.0,488 Torrey Pine Ter,Sunnyvale,CA,Sereno Group,6,6,2018
+621,1675000.0,1858.0,901.5069967707212,4.0,2.0,825 Pierino Ave,Sunnyvale,CA,,6,6,2018
+622,229000.0,1172.0,195.39249146757683,3.0,2.0,600 E Weddell Dr SPC 151,Sunnyvale,CA,Alliance Manufactured Homes,6,6,2018
+623,2299956.0,1921.0,1197.2701717855286,4.0,2.0,854 Corvallis Dr,Sunnyvale,CA,Los Gatos Properties-rm,6,6,2018
+624,1800000.0,1508.0,1193.6339522546418,3.0,2.0,1015 Havre Ct,Sunnyvale,CA,,6,6,2018
+625,1500000.0,1468.0,1021.7983651226158,4.0,2.0,230 Velvetlake Dr,Sunnyvale,CA,"eXp Realty of California, Inc.",6,6,2018
+626,299900.0,1493.0,200.87073007367715,3.0,2.0,1220 Tasman Dr SPC 225,Sunnyvale,CA,,6,6,2018
+627,1999888.0,1770.0,1129.8802259887007,4.0,2.0,1034 Helena Dr,Sunnyvale,CA,Intempus Realty,6,6,2018
+628,995000.0,1328.0,749.2469879518072,3.0,2.0,526 Madison St,Santa Clara,CA,ShopProp Inc.,6,6,2018
+629,1849000.0,1350.0,1369.6296296296296,4.0,2.0,431 Lowell Dr,Santa Clara,CA,Lehr Real Estate,6,6,2018
+630,1349000.0,980.0,1376.530612244898,3.0,1.0,613 Malarin Ave,Santa Clara,CA,Alain Pinel Realtors,6,6,2018
+631,2288000.0,1910.0,1197.9057591623034,4.0,2.0,2882 Mesquite Dr,Santa Clara,CA,,6,6,2018
+632,2399000.0,3200.0,749.6875,4.0,3.0,2390 Park Ave,Santa Clara,CA,Realty One Group Infinity,6,6,2018
+633,1399000.0,1716.0,815.2680652680651,3.0,3.0,4010 Fitzpatrick Way,Santa Clara,CA,,6,6,2018
+634,998000.0,1155.0,864.069264069264,3.0,1.0,997 Warburton Ave,Santa Clara,CA,,6,6,2018
+635,1765000.0,1284.0,1374.6105919003116,3.0,2.0,360 Hillsdale Ave,Santa Clara,CA,,6,6,2018
+636,1180000.0,1369.0,861.9430241051863,3.0,3.0,2554 Sandhill Way,Santa Clara,CA,,6,6,2018
+637,1458000.0,1784.0,817.2645739910314,3.0,3.0,79 Conner Pl,Santa Clara,CA,Coldwell Banker Residential Brokerage - Palo Alto Downtown,6,6,2018
+638,1450000.0,1657.0,875.0754375377188,3.0,4.0,4106 Tobin Cir,Santa Clara,CA,Sereno Group,6,6,2018
+639,549000.0,712.0,771.0674157303371,2.0,1.0,2601 Cortez Dr UNIT 5203,Santa Clara,CA,Home Solutions Realty,6,6,2018
+640,1048000.0,1144.0,916.083916083916,3.0,1.0,2819 Agate Dr,Santa Clara,CA,Coldwell Banker Residential Brokerage - San Jose-Willow Glen,6,6,2018
+641,749000.0,920.0,814.1304347826087,2.0,1.0,1904 Miraplaza Ct APT 22,Santa Clara,CA,,6,6,2018
+642,1398000.0,1455.0,960.8247422680412,4.0,2.0,2322 Amethyst Dr,Santa Clara,CA,Coldwell Banker Residential Brokerage - Cupertino,6,6,2018
+643,739000.0,951.0,777.0767613038906,2.0,1.0,1720 Halford Ave APT 232,Santa Clara,CA,,6,6,2018
+644,1899000.0,1907.0,995.8049292081804,3.0,2.0,281 Serena Way,Santa Clara,CA,"SoldNest, Inc.",6,6,2018
+645,699000.0,908.0,769.8237885462555,1.0,1.0,3901 Lick Mill Blvd APT 438,Santa Clara,CA,,6,6,2018
+646,1452950.0,1446.0,1004.8063623789765,4.0,2.0,930 White Dr,Santa Clara,CA,,6,6,2018
+647,1495000.0,1812.0,825.0551876379691,3.0,3.0,303 Satuma Dr,Redwood City,CA,,6,6,2018
+648,2200.0,650.0,3.3846153846153846,1.0,1.0,1120 Arguello St APT 8,Redwood City,CA,,6,6,2018
+649,1350000.0,1660.0,813.2530120481928,3.0,2.0,532 Shorebird Cir UNIT 6102,Redwood City,CA,,6,6,2018
+650,4100.0,1328.0,3.0873493975903616,3.0,2.0,469 Cork Harbour Cir,Redwood City,CA,,6,6,2018
+651,3600.0,1470.0,2.4489795918367347,2.0,2.0,8 Cove Ln,Redwood City,CA,,6,6,2018
+652,4100.0,1328.0,3.0873493975903616,3.0,2.0,469B Cork Harbour Cir # B,Redwood City,CA,,6,6,2018
+653,4750.0,1422.0,3.340365682137834,3.0,2.0,146 Cerrito Ave,Redwood City,CA,,6,6,2018
+654,3500.0,880.0,3.977272727272727,2.0,1.0,931 Junipero Ave,Redwood City,CA,,6,6,2018
+655,6200.0,2000.0,3.1,3.0,2.0,307 Santa Clara Ave,Redwood City,CA,,6,6,2018
+656,2600.0,900.0,2.888888888888889,1.0,1.0,629 Nevada St,Redwood City,CA,,6,6,2018
+657,4700.0,1320.0,3.560606060606061,2.0,2.0,19 Barcelona Cir,Redwood City,CA,,6,6,2018
+658,4500.0,1110.0,4.0540540540540535,2.0,2.5,825 Boardwalk Pl,Redwood City,CA,,6,6,2018
+659,5900.0,2000.0,2.95,3.0,2.5,Dockside Cir,Redwood City,CA,,6,6,2018
+660,2600.0,850.0,3.0588235294117645,1.0,1.0,1117 Hopkins Ave,Redwood City,CA,,6,6,2018
+661,869900.0,1000.0,869.9,2.0,1.0,136 Manzanita St,Redwood City,CA,Loans Realty Group,6,6,2018
+662,1230000.0,1090.0,1128.440366972477,2.0,1.0,2083 Oregon Ave,Redwood City,CA,"Dwell Realtors, Inc.",6,6,2018
+663,1499000.0,1300.0,1153.076923076923,3.0,2.0,3715 Farm Hill Blvd,Redwood City,CA,"Slava Real Estate, Inc.",6,6,2018
+664,5200.0,2000.0,2.6,4.0,2.0,2759 Delaware Ave,Redwood City,CA,,6,6,2018
+665,4995.0,1500.0,3.33,3.0,2.0,Flower St,Redwood City,CA,,6,6,2018
+666,1350000.0,1260.0,1071.4285714285713,2.0,1.0,257 W Oakwood Blvd,Redwood City,CA,Berkshire Hathaway Home Services California Realty,6,6,2018
+667,6000.0,2520.0,2.380952380952381,4.0,3.5,38 Cadiz Cir,Redwood City,CA,,6,6,2018
+668,2525.0,720.0,3.5069444444444446,1.0,1.0,44 Renato Ct # 4420,Redwood City,CA,,6,6,2018
+669,1488841.0,1313.0,1133.923076923077,3.0,2.0,314 Starfish Ln,Redwood City,CA,Coldwell Banker Residential Brokerage - Burlingame,6,6,2018
+670,185000.0,1040.0,177.88461538461542,2.0,2.0,3015 E Bayshore Rd SPC 366,Redwood City,CA,Advantage Homes,6,6,2018
+671,4000.0,1426.0,2.8050490883590458,2.0,2.5,601 Baltic Cir UNIT 631,Redwood City,CA,,6,6,2018
+672,7000.0,3181.0,2.200565859792518,5.0,3.0,901 Governors Bay Dr,Redwood City,CA,,6,6,2018
+673,5700.0,2208.0,2.5815217391304346,4.0,3.5,7 Ludina Way,Redwood City,CA,,6,6,2018
+674,1278000.0,1520.0,840.7894736842105,3.0,3.0,153 Positano Cir,Redwood City,CA,,6,6,2018
+675,1285000.0,1659.0,774.5629897528631,2.0,3.0,643 Turnbuckle Dr UNIT 1903,Redwood City,CA,,6,6,2018
+676,6000.0,1660.0,3.614457831325301,4.0,3.0,37 Nevada St,Redwood City,CA,,6,6,2018
+677,4200.0,1300.0,3.2307692307692313,3.0,2.0,1596 Hawes Ct,Redwood City,CA,,6,6,2018
+678,4888.0,1200.0,4.073333333333333,3.0,1.0,2063 Oregon Ave,Redwood City,CA,,6,6,2018
+679,3025.0,870.0,3.4770114942528734,2.0,1.0,70 Renato Ct # 7014,Redwood City,CA,,6,6,2018
+680,2000.0,600.0,3.333333333333333,1.0,1.0,Poplar Ave,Redwood City,CA,,6,6,2018
+681,5800.0,2540.0,2.2834645669291342,4.0,3.0,817 Bay Harbour Dr,Redwood City,CA,,6,6,2018
+682,1350.0,110.0,12.272727272727273,1.0,1.5,3516 Farm Hill Blvd APT 17,Redwood City,CA,,6,6,2018
+683,3025.0,725.0,4.172413793103448,2.0,1.0,15 Atherwood Ave APT 2,Redwood City,CA,,6,6,2018
+684,2525.0,530.0,4.764150943396227,1.0,1.0,1551 Regent St # 6,Redwood City,CA,,6,6,2018
+685,2800.0,730.0,3.8356164383561633,2.0,1.0,2 bed,730 sqft,$2,,6,6,2018
+686,4500.0,970.0,4.639175257731959,2.0,1.0,755 Arnold Way,Menlo Park,CA,,6,6,2018
+687,3300.0,900.0,3.6666666666666665,2.0,1.0,1143 Pine St,Menlo Park,CA,,6,6,2018
+688,4000.0,1100.0,3.636363636363636,3.0,2.0,1383 Madera Ave,Menlo Park,CA,,6,6,2018
+689,3000.0,1100.0,2.727272727272727,2.0,2.0,510 Oak Grove Ave,Menlo Park,CA,,6,6,2018
+690,3995.0,1000.0,3.995,2.0,1.0,734 Partridge Ave,Menlo Park,CA,,6,6,2018
+691,2275.0,560.0,4.0625,1.0,1.0,Fremont St,Menlo Park,CA,,6,6,2018
+692,6000.0,1020.0,5.882352941176472,2.0,1.0,University Dr,Menlo Park,CA,,6,6,2018
+693,6900.0,2030.0,3.399014778325123,3.0,2.5,443 Encina Ave,Menlo Park,CA,,6,6,2018
+694,2850.0,945.0,3.0158730158730163,2.0,2.0,2140 Santa Cruz Ave APT E201,Menlo Park,CA,,6,6,2018
+695,7250.0,2025.0,3.5802469135802473,4.0,2.0,Santa Monica Ave,Menlo Park,CA,,6,6,2018
+696,2700.0,950.0,2.8421052631578947,2.0,1.0,1014 Madera Ave APT 2,Menlo Park,CA,,6,6,2018
+697,5700.0,1870.0,3.048128342245989,3.0,3.0,2 Heritage Pl,Menlo Park,CA,,6,6,2018
+698,7500.0,1941.0,3.863987635239568,4.0,2.5,17 Artisan Way # SINGLE,Menlo Park,CA,,6,6,2018
+699,6850.0,1440.0,4.7569444444444455,2.0,2.0,263 Princeton Rd,Menlo Park,CA,,6,6,2018
+700,2300.0,600.0,3.8333333333333335,1.0,1.0,850 Coleman Ave,Menlo Park,CA,,6,6,2018
+701,3650.0,1000.0,3.65,2.0,1.0,Central Ave,Menlo Park,CA,,6,6,2018
+702,2900.0,800.0,3.625,1.0,1.0,481 Willow Rd # A,Menlo Park,CA,,6,6,2018
+703,3600.0,950.0,3.7894736842105265,2.0,1.0,Kent Pl,Menlo Park,CA,,6,6,2018
+704,11000.0,2683.0,4.0998881848676865,4.0,4.0,2130 Monterey Ave,Menlo Park,CA,,6,6,2018
+705,5400.0,1583.0,3.41124447252053,2.0,2.5,3421 El Camino Real APT 38C,Atherton,CA,,6,6,2018
+706,3200.0,800.0,4.0,1.0,1.0,2275 Sharon Rd APT 205,Menlo Park,CA,,6,6,2018
+707,5700.0,1850.0,3.081081081081081,4.0,2.0,409 Central Ave,Menlo Park,CA,,6,6,2018
+708,3350.0,1100.0,3.0454545454545454,2.0,1.0,759 Roble Ave APT 2,Menlo Park,CA,,6,6,2018
+709,15000.0,3700.0,4.0540540540540535,4.0,3.5,Menlo Oaks Dr,Menlo Park,CA,,6,6,2018
+710,4850.0,1355.0,3.579335793357933,2.0,1.5,1056 Pine St,Menlo Park,CA,,6,6,2018
+711,4295.0,1100.0,3.904545454545455,2.0,1.0,Sevier Ave,Menlo Park,CA,,6,6,2018
+712,8500.0,2270.0,3.744493392070485,4.0,2.5,1130 Hidden Oaks Dr,Menlo Park,CA,,6,6,2018
+713,4000.0,1000.0,4.0,2.0,1.5,735 Bay Rd,Menlo Park,CA,,6,6,2018
+714,5300.0,1500.0,3.533333333333333,3.0,2.5,733 Bay Rd,Menlo Park,CA,,6,6,2018
+715,9000.0,1390.0,6.474820143884893,3.0,2.0,856 College Ave # COMPOUND,West Menlo Park,CA,,6,6,2018
+716,6000.0,1750.0,3.4285714285714284,4.0,3.0,2151 Oakley Ave,Menlo Park,CA,,6,6,2018
+717,3400.0,875.0,3.8857142857142857,2.0,1.0,610 Gilbert Ave,Menlo Park,CA,,6,6,2018
+718,8500.0,2690.0,3.159851301115242,4.0,2.5,968 Monte Rosa Dr,Menlo Park,CA,,6,6,2018
+719,5200.0,1230.0,4.227642276422763,3.0,2.0,319 Okeefe St,Menlo Park,CA,,6,6,2018
+720,3400.0,890.0,3.820224719101124,2.0,1.0,1105 Almanor Ave,Menlo Park,CA,,6,6,2018
+721,5500.0,1600.0,3.4375,3.0,3.0,15 Homer Ln,Menlo Park,CA,,6,6,2018
+722,6400.0,1800.0,3.555555555555556,3.0,1.5,1226 Johnson St,Menlo Park,CA,,6,6,2018
+723,4100.0,840.0,4.8809523809523805,2.0,1.0,1019 Berkeley Ave,Menlo Park,CA,,6,6,2018
+724,2495.0,497.0,5.020120724346078,1.0,1.0,3485 Alameda De Las Pulgas APT 3,Menlo Park,CA,,6,6,2018
+725,10800.0,2199.0,4.911323328785811,4.0,3.0,Celia Dr,Palo Alto,CA,,6,6,2018
+726,3500.0,1200.0,2.9166666666666665,2.0,1.0,854 University Ave # 854,Palo Alto,CA,,6,6,2018
+727,6500.0,1842.0,3.5287730727470135,4.0,2.0,Miranda Ave,Palo Alto,CA,,6,6,2018
+728,6200.0,1580.0,3.924050632911392,3.0,2.0,181 Lois Ln,Palo Alto,CA,,6,6,2018
+729,4500.0,810.0,5.5555555555555545,1.0,1.0,957 Channing Ave,Palo Alto,CA,,6,6,2018
+730,12500.0,3050.0,4.0983606557377055,5.0,3.5,978 N California Ave,Palo Alto,CA,,6,6,2018
+731,5600.0,1831.0,3.058438012015292,3.0,2.0,576 Georgia Ave,Palo Alto,CA,,6,6,2018
+732,11000.0,3000.0,3.6666666666666665,5.0,4.0,781 Rosewood Dr,Palo Alto,CA,,6,6,2018
+733,12500.0,2620.0,4.770992366412214,3.0,3.5,460 Washington Ave,Palo Alto,CA,,6,6,2018
+734,4500.0,1000.0,4.5,2.0,1.0,16 Churchill Ave,Palo Alto,CA,,6,6,2018
+735,2650.0,600.0,4.416666666666667,1.0,1.0,1 bed,600 sqft,$2,,6,6,2018
+736,4300.0,956.0,4.497907949790795,2.0,2.0,2150 Yale St,Palo Alto,CA,,6,6,2018
+737,998000.0,1144.0,872.3776223776224,2.0,1.0,440 Cesano Ct APT 114,Palo Alto,CA,,6,6,2018
+738,6750.0,1666.0,4.051620648259304,3.0,2.5,651 Homer Ave,Palo Alto,CA,,6,6,2018
+739,3200.0,822.0,3.892944038929441,1.0,1.0,883 Federation Way,Palo Alto,CA,,6,6,2018
+740,5900.0,1334.0,4.422788605697153,3.0,2.0,College Ave,Palo Alto,CA,,6,6,2018
+741,5990.0,1701.0,3.5214579659024103,3.0,2.0,3272 Clifton Ct,Palo Alto,CA,,6,6,2018
+742,7600.0,2260.0,3.3628318584070795,4.0,3.0,2698 Cowper St,Palo Alto,CA,,6,6,2018
+743,4950.0,1679.0,2.9481834425253126,3.0,3.0,1186 Almanor Ln,Palo Alto,CA,,6,6,2018
+744,3395.0,880.0,3.8579545454545454,2.0,1.0,724 Sutter Ave,Palo Alto,CA,,6,6,2018
+745,7200.0,1613.0,4.463732176069437,2.0,2.0,800 High St APT 120,Palo Alto,CA,,6,6,2018
+746,3400.0,1030.0,3.300970873786408,2.0,2.0,777 San Antonio Rd APT 65,Palo Alto,CA,,6,6,2018
+747,14995.0,3068.0,4.88754889178618,4.0,3.5,1400 Cowper St,Palo Alto,CA,,6,6,2018
+748,9000.0,1848.0,4.87012987012987,3.0,3.0,835 Lytton Ave,Palo Alto,CA,,6,6,2018
+749,13000.0,3150.0,4.126984126984127,5.0,3.5,802 Center Dr,Palo Alto,CA,,6,6,2018
+750,3200.0,960.0,3.333333333333333,2.0,1.5,1661 Alma St,Palo Alto,CA,,6,6,2018
+751,2295.0,515.0,4.456310679611652,1.0,1.0,417 Forest Ave,Palo Alto,CA,,6,6,2018
+752,7500.0,2200.0,3.4090909090909087,4.0,3.0,180 Walter Hays Dr,Palo Alto,CA,,6,6,2018
+753,4800.0,1400.0,3.4285714285714284,3.0,2.0,Wilton Ave,Palo Alto,CA,,6,6,2018
+754,6050.0,1248.0,4.847756410256411,3.0,2.0,2240 Saint Francis Dr,Palo Alto,CA,,6,6,2018
+755,3100.0,930.0,3.333333333333333,2.0,2.0,250 Curtner Ave APT 12,Palo Alto,CA,,6,6,2018
+756,3500.0,950.0,3.684210526315789,2.0,2.0,376 College Ave APT 3,Palo Alto,CA,,6,6,2018
+757,2897.0,800.0,3.62125,2.0,1.0,3297 Alma St,Palo Alto,CA,,6,6,2018
+758,5465.0,1533.0,3.564905414220483,3.0,3.0,Lupine Ave,Palo Alto,CA,,6,6,2018
+759,19500.0,5467.0,3.566855679531736,7.0,5.0,555 Lytton Ave,Palo Alto,CA,,6,6,2018
+760,2295.0,600.0,3.825,1.0,1.0,469 Grant Ave APT K,Palo Alto,CA,,6,6,2018
+761,14450.0,3230.0,4.473684210526316,5.0,3.5,821 Thornwood Dr,Palo Alto,CA,,6,6,2018
+762,8250.0,1580.0,5.2215189873417724,3.0,2.0,2090 Byron St,Palo Alto,CA,,6,6,2018
+763,9000.0,2815.0,3.197158081705151,4.0,3.5,David Ave,Palo Alto,CA,,6,6,2018
+764,4800.0,1218.0,3.940886699507389,3.0,3.0,3816 Quail Dr,Palo Alto,CA,,6,6,2018
+765,4500.0,1034.0,4.35203094777563,2.0,1.0,519 Georgia Ave,Palo Alto,CA,,6,6,2018
+766,4850.0,1323.0,3.665910808767952,3.0,2.0,831 Colorado Ave,Palo Alto,CA,,6,6,2018
+767,2700.0,850.0,3.1764705882352944,2.0,1.0,397 Curtner Ave,Palo Alto,CA,,6,6,2018
+768,4800.0,1200.0,4.0,2.0,2.0,828 Addison Ave,Palo Alto,CA,,6,6,2018
+769,6200.0,1500.0,4.133333333333334,4.0,2.0,451 Wilton Ave,Palo Alto,CA,,6,6,2018
+770,5200.0,1271.0,4.091266719118804,3.0,2.0,300 Loma Verde Ave,Palo Alto,CA,,6,6,2018
+771,2595.0,615.0,4.219512195121951,1.0,1.0,392 Madeline Ct,Palo Alto,CA,,6,6,2018
+772,2195.0,455.0,4.824175824175824,1.0,1.0,469 Grant Ave APT B,Palo Alto,CA,,6,6,2018
+773,16000.0,3779.0,4.2339243186028055,4.0,4.0,757 Moreno Ave,Palo Alto,CA,,6,6,2018
+774,5000.0,1327.0,3.767897513187641,3.0,3.0,3760 Klamath Ln,Palo Alto,CA,,6,6,2018
+775,6795.0,1959.0,3.468606431852986,3.0,2.0,717 Garland Dr,Palo Alto,CA,,6,6,2018
+776,3000.0,700.0,4.285714285714286,1.0,1.0,460 Channing Ave APT C,Palo Alto,CA,,6,6,2018
+777,2495.0,600.0,4.158333333333333,1.0,1.0,645 Channing Ave,Palo Alto,CA,,6,6,2018
+778,1598000.0,1547.0,1032.967032967033,3.0,2.0,1780 Morgan St,Mountain View,CA,Intero Real Estate Services,6,6,2018
+779,5011.0,2000.0,2.5055,4.0,3.5,1600 Amphitheatre Pkwy,Mountain View,CA,,6,6,2018
+780,4800.0,1632.0,2.9411764705882355,2.0,1.5,528 Anza St,Mountain View,CA,,6,6,2018
+781,3395.0,1196.0,2.838628762541806,3.0,1.5,W Dana St,Mountain View,CA,,6,6,2018
+782,7200.0,2298.0,3.133159268929504,4.0,2.5,726 Rustic Ln,Mountain View,CA,,6,6,2018
+783,3995.0,1076.0,3.7128252788104086,3.0,1.0,1657 Latham St,Mountain View,CA,,6,6,2018
+784,2495.0,750.0,3.3266666666666667,2.0,1.0,1984 Colony St APT 3,Mountain View,CA,,6,6,2018
+785,5200.0,1536.0,3.3854166666666665,4.0,2.0,Thompson Ave,Mountain View,CA,,6,6,2018
+786,1680650.0,1674.0,1003.9725209080048,4.0,4.0,97 Fairchild Dr,Mountain View,CA,Taylor Morrison Services Inc,6,6,2018
+787,1352610.0,1122.0,1205.5347593582887,2.0,3.0,649 Cinnamon Cir,Mountain View,CA,Taylor Morrison Services Inc,6,6,2018
+788,5295.0,1300.0,4.073076923076924,2.0,1.0,696 California St,Mountain View,CA,,6,6,2018
+789,4500.0,1350.0,3.333333333333333,3.0,2.5,170 Oberg Ct,Mountain View,CA,,6,6,2018
+790,998000.0,998.0,1000.0,2.0,2.0,905 W Middlefield Rd APT 909,Mountain View,CA,,6,6,2018
+791,5000.0,1339.0,3.734129947722181,3.0,2.5,133 Laurel Way,Mountain View,CA,,6,6,2018
+792,6900.0,2001.0,3.4482758620689653,4.0,2.0,2720 Diericx Dr,Mountain View,CA,,6,6,2018
+793,4900.0,1300.0,3.7692307692307687,3.0,2.0,473 Dell Ave,Mountain View,CA,,6,6,2018
+794,5800.0,1571.0,3.6919159770846592,3.0,2.0,113 Bryant Ave,Mountain View,CA,,6,6,2018
+795,649000.0,827.0,784.7642079806529,1.0,1.0,1930 Mount Vernon Ct APT 2,Mountain View,CA,,6,6,2018
+796,6000.0,1140.0,5.2631578947368425,3.0,2.0,435 Victory Ave,Mountain View,CA,,6,6,2018
+797,4600.0,1500.0,3.066666666666667,3.0,2.0,706 Borello Way # 1,Mountain View,CA,,6,6,2018
+798,1750.0,300.0,5.833333333333332,1.0,1.0,271 Beatrice St,Mountain View,CA,,6,6,2018
+799,3795.0,1250.0,3.036,2.0,2.5,815 Montgomery St,Mountain View,CA,,6,6,2018
+800,4500.0,900.0,5.0,2.0,2.0,405 Oak St APT 1,Mountain View,CA,,6,6,2018
+801,4700.0,1250.0,3.76,3.0,3.0,1943 Colony St,Mountain View,CA,,6,6,2018
+802,998888.0,1206.0,828.2653399668325,2.0,2.0,2111 Latham St APT 309,Mountain View,CA,,6,6,2018
+803,5800.0,1649.0,3.51728320194057,3.0,2.0,817 Bourbon Ct,Mountain View,CA,,6,6,2018
+804,1731000.0,1732.0,999.4226327944573,3.0,4.0,2276 Mora Pl BLDG 5,Mountain View,CA,,6,6,2018
+805,4800.0,1375.0,3.4909090909090907,3.0,2.5,Kent Dr,Mountain View,CA,,6,6,2018
+806,3300.0,704.0,4.6875,2.0,1.0,Sierra Vista Ave,Mountain View,CA,,6,6,2018
+807,2400.0,650.0,3.692307692307693,2.0,1.0,40 Evandale Ave APT C,Mountain View,CA,,6,6,2018
+808,7250.0,2021.0,3.587333003463632,4.0,3.0,229 Athena Ct,Mountain View,CA,,6,6,2018
+809,4495.0,1369.0,3.2834185536888234,3.0,2.5,173 Bel Air Ct,Mountain View,CA,,6,6,2018
+810,2295.0,639.0,3.591549295774648,1.0,1.0,550 Mariposa Ave APT 1,Mountain View,CA,,6,6,2018
+811,3300.0,770.0,4.285714285714286,2.0,1.0,2255 Showers Dr APT 133,Mountain View,CA,,6,6,2018
+812,3225.0,1000.0,3.225,2.0,1.0,611 Leksich Ave APT 2,Mountain View,CA,,6,6,2018
+813,229000.0,960.0,238.54166666666663,2.0,2.0,191 E El Camino Real SPC 299,Mountain View,CA,Pams Homes,6,6,2018
+814,5195.0,1800.0,2.886111111111111,4.0,2.0,Nilda Ave,Mountain View,CA,,6,6,2018
+815,2795.0,805.0,3.472049689440994,2.0,1.0,278 Tyrella Ave APT 8,Mountain View,CA,,6,6,2018
+816,5350.0,1384.0,3.8656069364161847,2.0,2.5,232 View St,Mountain View,CA,,6,6,2018
+817,5600.0,1565.0,3.5782747603833864,3.0,2.5,5004 Marcelli Cir,Los Altos,CA,,6,6,2018
+818,3750.0,800.0,4.6875,5.0,6.0,10180 W Loyola Dr,Los Altos Hills,CA,,6,6,2018
+819,3295.0,1030.0,3.1990291262135924,2.0,2.0,201 Cuesta Dr APT 19,Los Altos,CA,,6,6,2018
+820,3500.0,1200.0,2.9166666666666665,2.0,1.5,814 Jordan Ave,Los Altos,CA,,6,6,2018
+821,8100.0,3032.0,2.671503957783641,4.0,3.5,1450 Ben Roe Dr,Los Altos,CA,,6,6,2018
+822,7950.0,3000.0,2.65,5.0,3.0,1675 Alexander Ct,Los Altos,CA,,6,6,2018
+823,14000.0,4161.0,3.3645758231194423,5.0,4.0,125 S Gordon Way,Los Altos,CA,,6,6,2018
+824,5995.0,1148.0,5.222125435540071,3.0,1.5,Covington Rd,Los Altos,CA,,6,6,2018
+825,5900.0,2000.0,2.95,3.0,2.0,899 Sherwood Ave,Los Altos,CA,,6,6,2018
+826,4500.0,1656.0,2.717391304347826,2.0,2.0,470 Gabilan St APT 1,Los Altos,CA,,6,6,2018
+827,10000.0,3190.0,3.134796238244514,4.0,3.0,308 Blue Oak Ln,Los Altos,CA,,6,6,2018
+828,6500.0,3000.0,2.1666666666666665,3.0,2.5,Oak Ave,Los Altos,CA,,6,6,2018
+829,13500.0,3515.0,3.840682788051209,5.0,4.5,1924 Churton Ave,Los Altos,CA,,6,6,2018
+830,7200.0,2350.0,3.0638297872340425,4.0,3.0,42 E Portola Ave,Los Altos,CA,,6,6,2018
+831,8500.0,2993.0,2.83995990644838,4.0,3.0,1550 Montebello Oaks Ct,Los Altos,CA,,6,6,2018
+832,5800.0,2200.0,2.636363636363636,4.0,2.0,10710 Baxter Ave,Los Altos,CA,,6,6,2018
+833,3795.0,868.0,4.372119815668203,2.0,1.0,606 Lincoln Ave,Los Altos,CA,,6,6,2018
+834,6295.0,1785.0,3.526610644257703,3.0,2.0,1622 Ben Roe Dr,Los Altos,CA,,6,6,2018
+835,8500.0,2768.0,3.0708092485549128,4.0,3.0,1594 Frontero Ave,Los Altos,CA,,6,6,2018
+836,11000.0,3790.0,2.9023746701846966,4.0,3.5,493 W Portola Ave,Los Altos,CA,,6,6,2018
+837,8000.0,2280.0,3.5087719298245608,5.0,3.0,50 Los Altos Ave,Los Altos,CA,,6,6,2018
+838,5650.0,1565.0,3.6102236421725236,3.0,2.5,1004 Marcelli Cir,Los Altos,CA,,6,6,2018
+839,5325000.0,2561.0,2079.265911753221,4.0,3.0,132 Sunkist Ln,Los Altos,CA,,6,6,2018
+840,5000.0,1615.0,3.095975232198142,3.0,2.0,1 W Edith Ave,Los Altos,CA,,6,6,2018
+841,2995.0,750.0,3.993333333333333,1.0,1.0,848 Jordan Ave,Los Altos,CA,,6,6,2018
+842,5400.0,1514.0,3.5667107001321003,3.0,3.0,420 Tyndall St,Los Altos,CA,,6,6,2018
+843,5400.0,1710.0,3.1578947368421053,3.0,2.0,1638 Randolph Pkwy,Los Altos,CA,,6,6,2018
+844,12500.0,3100.0,4.032258064516129,5.0,3.0,470 Border Hill Rd,Los Altos,CA,,6,6,2018
+845,7200.0,2379.0,3.0264817150063053,4.0,3.0,1216 Via Huerta,Los Altos,CA,,6,6,2018
+846,3650.0,750.0,4.866666666666666,2.0,1.0,Santa Rita Ave,Los Altos,CA,,6,6,2018
+847,8070.0,3245.0,2.4869029275808936,4.0,3.0,1710 Whitham Ave,Los Altos,CA,,6,6,2018
+848,12000.0,3245.0,3.697996918335901,4.0,4.5,1468 Club View Ter,Los Altos,CA,,6,6,2018
+849,5500.0,1474.0,3.7313432835820897,3.0,2.0,121 Del Monte Ave,Los Altos,CA,,6,6,2018
+850,2650.0,600.0,4.416666666666667,1.0,1.0,1385 Grant Rd,Los Altos,CA,,6,6,2018
+851,4200000.0,1985.0,2115.8690176322416,3.0,3.0,1378 Don Kirk St,Los Altos,CA,,6,6,2018
+852,3400.0,1100.0,3.0909090909090913,2.0,1.0,1704 Marshall Ct # B,Los Altos,CA,,6,6,2018
+853,7500.0,2645.0,2.8355387523629485,4.0,3.0,1074 Highlands Cir,Los Altos,CA,,6,6,2018
+854,16500.0,4452.0,3.7061994609164417,5.0,4.5,111 S Gordon Way,Los Altos,CA,,6,6,2018
+855,6950000.0,2587.0,2686.509470429069,3.0,3.0,90 Marvin Ave,Los Altos,CA,,6,6,2018
+856,9500.0,2100.0,4.523809523809524,3.0,3.0,Hawthorne Ave,Los Altos,CA,,6,6,2018
+1,1299000.0,1080.0,1202.7777777777778,3.0,1.0,2841 Kensington Rd,Redwood City,CA,Terrace Associates,6,6,2018
+6,5988000.0,5526.0,1083.6047774158524,5.0,7.0,2312 Loma Prieta Ln,Menlo Park,CA,Deleon Realty,6,6,2018
+10,1838000.0,3118.0,589.4804361770366,7.0,3.0,550 Market Pl,Menlo Park,CA,NaN,6,6,2018
+15,6850000.0,7295.0,938.9993145990404,5.0,7.0,930 Berkeley Ave,Menlo Park,CA,NaN,6,6,2018
+18,3795000.0,2680.0,1416.044776119403,3.0,3.0,15 Susan Gale Ct,Menlo Park,CA,NaN,6,6,2018
+4,1199000.0,1340.0,894.776119402985,3.0,1.0,1311 Windermere Ave,Menlo Park,CA,NaN,6,6,2018
+1,2498000.0,1603.0,1558.3281347473487,4.0,3.0,248 Whitclem Dr,Palo Alto,CA,Golden Gate Sotheby's International Realty,6,6,2018
+2,3190000.0,1851.0,1723.392760669908,3.0,3.0,455 Oregon Ave,Palo Alto,CA,Valley Vine Realty,6,6,2018
+7,1900000.0,1607.0,1182.3273179838209,3.0,2.0,447 College Ave,Palo Alto,CA,NaN,6,6,2018
+8,4298000.0,1652.0,2601.6949152542375,3.0,2.0,667 Lytton Ave,Palo Alto,CA,Coldwell Banker Residential Brokerage - Los Altos,6,6,2018
+10,1717990.0,1884.0,911.8842887473461,4.0,4.0,129 Orbit Way,Mountain View,CA,NaN,6,6,2018
+0,1149000.0,953.0,1205.6663168940188,2.0,2.0,1057 Haight St,San Francisco,CA,Zephyr Real Estate,6,6,2018
+1,10000.0,1300.0,7.6923076923076925,2.0,2.5,Larkin St,San Francisco,CA,NaN,6,6,2018
+2,3700.0,779.0,4.7496790757381255,2.0,2.0,1148 Eddy St UNIT A,San Francisco,CA,NaN,6,6,2018
+3,4500.0,1200.0,3.75,2.0,2.0,Folsom St,San Francisco,CA,NaN,6,6,2018
+4,2700000.0,1948.0,1386.0369609856264,4.0,2.0,1208 Stanyan St,San Francisco,CA,United Realty Partners,6,6,2018
+5,3450.0,1000.0,3.45,2.0,1.0,1931 Oak St APT 4,San Francisco,CA,NaN,6,6,2018
+6,5000.0,1500.0,3.3333333333333335,2.0,1.0,3482 Scott St,San Francisco,CA,NaN,6,6,2018
+7,6000.0,2020.0,2.9702970297029703,3.0,2.5,307 Summit Way,San Francisco,CA,NaN,6,6,2018
+8,4500000.0,2214.0,2032.520325203252,2.0,3.0,2555 Larkin St APT 2,San Francisco,CA,Sotheby's International Realty - San Francisco Brokerage,6,6,2018
+9,6550.0,1550.0,4.225806451612903,3.0,2.0,Fell St,San Francisco,CA,NaN,6,6,2018
+0,2150000.0,2675.0,803.7383177570093,4.0,2.0,1237 Masonic Ave,San Francisco,CA,Coldwell Banker Residential Brokerage - Burlingame,6,6,2018
+1,4000.0,1650.0,2.4242424242424243,3.0,1.0,Arch St,San Francisco,CA,NaN,6,6,2018
+2,2695.0,650.0,4.1461538461538465,1.0,1.0,575 Cole St APT 204,San Francisco,CA,NaN,6,6,2018
+3,6095.0,1300.0,4.688461538461539,2.0,2.5,415 De Haro St APT 206,San Francisco,CA,NaN,6,6,2018
+4,2650.0,650.0,4.076923076923077,1.0,1.0,335 Euclid Ave APT 302,San Francisco,CA,NaN,6,6,2018
+6,3850.0,1340.0,2.873134328358209,2.0,1.5,1719 La Salle Ave,San Francisco,CA,NaN,6,6,2018
+7,6200.0,1400.0,4.428571428571429,4.0,1.0,2708 Hyde St,San Francisco,CA,NaN,6,6,2018
+8,3350.0,1400.0,2.392857142857143,2.0,1.0,1752 Lane St,San Francisco,CA,NaN,6,6,2018
+9,3500.0,630.0,5.555555555555555,1.0,1.0,1546 Pine St,San Francisco,CA,NaN,6,6,2018
+0,13000.0,4368.0,2.9761904761904763,4.0,4.0,843 Mason St,San Francisco,CA,NaN,6,6,2018
+1,3850.0,1215.0,3.168724279835391,2.0,1.0,2255 Lake St APT 11,San Francisco,CA,NaN,6,6,2018
+2,4600.0,1400.0,3.2857142857142856,1.0,1.5,California St,San Francisco,CA,NaN,6,6,2018
+3,4500.0,650.0,6.923076923076923,1.0,1.0,700 Steiner St,San Francisco,CA,NaN,6,6,2018
+5,3700.0,1100.0,3.3636363636363638,2.0,1.0,928 Persia Ave,San Francisco,CA,NaN,6,6,2018
+7,3400.0,538.0,6.319702602230484,1.0,1.0,1001 17th St,San Francisco,CA,NaN,6,6,2018
+9,3900.0,998.0,3.907815631262525,2.0,2.0,72 Littlefield Ter,San Francisco,CA,NaN,6,6,2018
+10,3600.0,672.0,5.357142857142857,1.0,1.0,380 14th St # VIEWS,San Francisco,CA,NaN,6,6,2018
+11,5400.0,1300.0,4.153846153846154,2.0,2.0,900 Great Hwy # OCEANFRONT,San Francisco,CA,NaN,6,6,2018
+12,30000.0,6358.0,4.718464926077383,6.0,4.5,Scott St,San Francisco,CA,NaN,6,6,2018
+13,3695.0,1160.0,3.185344827586207,2.0,1.0,768 Rolph St,San Francisco,CA,NaN,6,6,2018
+0,4200.0,600.0,7.0,3.0,2.0,1633 Ark St # INLAW,San Mateo,CA,NaN,6,6,2018
+1,2950.0,1200.0,2.4583333333333335,2.0,1.0,2073 S Delaware St,San Mateo,CA,NaN,6,6,2018
+2,2800.0,834.0,3.357314148681055,1.0,1.5,1705 Palm Ave APT 6,San Mateo,CA,NaN,6,6,2018
+4,4295.0,1640.0,2.6189024390243905,3.0,2.0,305 Rolling Hills Ave,San Mateo,CA,NaN,6,6,2018
+5,3200.0,1050.0,3.0476190476190474,2.0,1.0,Highland Ave,San Mateo,CA,NaN,6,6,2018
+9,3900.0,1150.0,3.391304347826087,2.0,2.0,Port Dr,San Mateo,CA,NaN,6,6,2018
+10,2300.0,750.0,3.066666666666667,1.0,1.0,601 N Amphlett Blvd # 3,San Mateo,CA,NaN,6,6,2018
+11,3800.0,1230.0,3.089430894308943,2.0,1.5,2728 Flores St,San Mateo,CA,NaN,6,6,2018
+13,3875.0,1200.0,3.2291666666666665,2.0,2.0,556 S El Camino Real # 556,San Mateo,CA,NaN,6,6,2018
+0,3990.0,1040.0,3.8365384615384617,2.0,1.0,3821 Edison St,San Mateo,CA,NaN,6,6,2018
+1,4200.0,1420.0,2.9577464788732395,2.0,2.0,1965 Ofarrell St,San Mateo,CA,NaN,6,6,2018
+3,4200.0,1300.0,3.230769230769231,3.0,1.5,Donner St,San Mateo,CA,NaN,6,6,2018
+6,3395.0,1200.0,2.8291666666666666,3.0,1.0,20 S Eldorado St # S,San Mateo,CA,NaN,6,6,2018
+7,6500.0,2130.0,3.051643192488263,3.0,2.0,697 Barneson Ave,San Mateo,CA,NaN,6,6,2018
+8,3800.0,1330.0,2.857142857142857,3.0,2.0,Dewey St,San Mateo,CA,NaN,6,6,2018
+15,6900.0,2170.0,3.1797235023041477,4.0,4.0,3067 Neves Rd,San Mateo,CA,NaN,6,6,2018
+18,4650.0,1650.0,2.8181818181818183,3.0,1.5,3900 Hacienda St,San Mateo,CA,NaN,6,6,2018
+12,3695.0,1313.0,2.8141660319878143,3.0,2.0,615 Port Dr APT 207,San Mateo,CA,NaN,6,6,2018
+15,4250.0,1250.0,3.4,2.0,2.0,Shoreline Dr,San Mateo,CA,NaN,6,6,2018
+0,5300.0,2300.0,2.3043478260869565,4.0,2.5,1534 Harbor Blvd,Belmont,CA,NaN,6,6,2018
+1,5700.0,1885.0,3.023872679045093,4.0,2.5,2048 Monroe Ave,Belmont,CA,NaN,6,6,2018
+2,4295.0,1260.0,3.4087301587301586,3.0,1.0,905 Ruth Ave,Belmont,CA,NaN,6,6,2018
+3,5000.0,1820.0,2.7472527472527473,2.0,2.5,Lyon Ave,Belmont,CA,NaN,6,6,2018
+4,5500.0,1960.0,2.806122448979592,4.0,2.5,1930 Bayview Ave,Belmont,CA,NaN,6,6,2018
+5,2295.0,550.0,4.172727272727273,1.0,1.0,2180 Carlmont Dr,Belmont,CA,NaN,6,6,2018
+6,3700.0,1490.0,2.4832214765100673,3.0,2.0,300 Davey Glen Rd,Belmont,CA,NaN,6,6,2018
+7,6500.0,1320.0,4.924242424242424,3.0,2.0,616 Alameda De Las Pulgas,Belmont,CA,NaN,6,6,2018
+8,4500.0,1650.0,2.727272727272727,3.0,2.5,323 Treasure Island Dr,Belmont,CA,NaN,6,6,2018
+10,1950.0,450.0,4.333333333333333,1.0,1.0,300 Oxford Way APT 5,Belmont,CA,NaN,6,6,2018
+12,2300.0,650.0,3.5384615384615383,1.0,1.0,2221 Village Ct APT 3,Belmont,CA,NaN,6,6,2018
+13,2195.0,550.0,3.9909090909090907,1.0,1.0,601 Middle Rd APT 3,Belmont,CA,NaN,6,6,2018
+14,2875.0,900.0,3.1944444444444446,2.0,2.0,2200 Lake Rd APT 106,Belmont,CA,NaN,6,6,2018
+15,2300.0,650.0,3.5384615384615383,1.0,1.0,(undisclosed Address),Belmont,CA,NaN,6,6,2018
+16,4575.0,1300.0,3.519230769230769,3.0,2.0,1512 Solana Dr,Belmont,CA,NaN,6,6,2018
+17,2650.0,1000.0,2.65,2.0,2.0,1048 Continentals Way,Belmont,CA,NaN,6,6,2018
+21,4975.0,2150.0,2.313953488372093,3.0,2.5,2301 Hastings Dr,Belmont,CA,NaN,6,6,2018
+22,6985.0,2230.0,3.132286995515695,3.0,2.5,20 Cobblestone Ln,Belmont,CA,NaN,6,6,2018
+23,5499.0,1700.0,3.2347058823529413,3.0,2.0,15 Cliffside Ct,Belmont,CA,NaN,6,6,2018
+0,3800.0,1010.0,3.762376237623762,2.0,1.0,1740 Belburn Dr,Belmont,CA,NaN,6,6,2018
+1,4500.0,1880.0,2.393617021276596,3.0,3.5,310 Treasure Island Dr,Belmont,CA,NaN,6,6,2018
+2,6288.0,2630.0,2.390874524714829,4.0,3.0,8 Talbryn Ln,Belmont,CA,NaN,6,6,2018
+3,2395.0,700.0,3.4214285714285713,1.0,1.0,2120 Valerga Dr APT 11,Belmont,CA,NaN,6,6,2018
+4,6000.0,1640.0,3.658536585365854,4.0,2.0,Sunnyslope Ave,Belmont,CA,NaN,6,6,2018
+5,2300.0,950.0,2.4210526315789473,1.0,1.0,85 Broadway,Belmont,CA,NaN,6,6,2018
+7,2250.0,750.0,3.0,1.0,1.0,181 Irene Ct APT 5,Belmont,CA,NaN,6,6,2018
+8,4595.0,1500.0,3.0633333333333335,3.0,2.0,Laurel Ct,Belmont,CA,NaN,6,6,2018
+9,6495.0,1980.0,3.2803030303030303,3.0,2.5,141 Virginia Ave,Belmont,CA,NaN,6,6,2018
+11,5900.0,2210.0,2.669683257918552,3.0,2.5,2539 Sherborne Dr,Belmont,CA,NaN,6,6,2018
+12,5600.0,2350.0,2.382978723404255,3.0,3.0,2815 San Ardo Way,Belmont,CA,NaN,6,6,2018
+1,3700.0,1200.0,3.0833333333333335,3.0,1.0,550 Oneill Ave,Belmont,CA,NaN,6,6,2018
+1,15000.0,4700.0,3.1914893617021276,3.0,4.0,Golden Oak Dr,Portola Valley,CA,NaN,6,6,2018
+2,4000.0,750.0,5.333333333333333,1.0,1.0,875 Westridge Dr # GUESTHOUSE,Portola Valley,CA,NaN,6,6,2018
+5,9500.0,3060.0,3.104575163398693,4.0,3.0,112 Stonegate Rd,Portola Valley,CA,NaN,6,6,2018
+6,9800.0,2926.0,3.349282296650718,4.0,2.5,95 Golden Oak Dr,Portola Valley,CA,NaN,6,6,2018
+0,2600.0,800.0,3.25,2.0,1.0,Magellan Dr,Pacifica,CA,NaN,6,6,2018
+2,3800.0,1100.0,3.4545454545454546,2.0,2.0,1184 Manzanita Dr,Pacifica,CA,NaN,6,6,2018
+3,2600.0,700.0,3.7142857142857144,1.0,1.0,622 Big Bend Dr,Pacifica,CA,NaN,6,6,2018
+5,3200.0,900.0,3.5555555555555554,2.0,1.0,Beaumont Blvd,Pacifica,CA,NaN,6,6,2018
+6,2275.0,700.0,3.25,1.0,1.0,360 Talbot Ave APT 12A,Pacifica,CA,NaN,6,6,2018
+10,3350.0,980.0,3.4183673469387754,2.0,1.0,Nelson Ave,Pacifica,CA,NaN,6,6,2018
+15,3050.0,860.0,3.546511627906977,2.0,1.0,109 Clarendon Rd,Pacifica,CA,NaN,6,6,2018
+16,3800.0,1410.0,2.6950354609929077,3.0,2.5,1323 Rosita Rd,Pacifica,CA,NaN,6,6,2018
+17,2300.0,750.0,3.066666666666667,1.0,1.0,Pacific Ave,Pacifica,CA,NaN,6,6,2018
+0,4300.0,2000.0,2.15,5.0,2.0,486 Andover Dr,Pacifica,CA,NaN,6,6,2018
+2,2440.0,750.0,3.2533333333333334,1.0,1.0,1517 Palmetto Ave,Pacifica,CA,NaN,6,6,2018
+3,2695.0,750.0,3.5933333333333333,1.0,1.0,Beach Blvd,Pacifica,CA,NaN,6,6,2018
+7,3500.0,800.0,4.375,2.0,1.0,160 Hiawatha Ave,Pacifica,CA,NaN,6,6,2018
+9,5500.0,1620.0,3.3950617283950617,2.0,2.5,217 Roberts Rd,Pacifica,CA,NaN,6,6,2018
+10,4500.0,1650.0,2.727272727272727,4.0,3.0,1227 Redwood Way,Pacifica,CA,NaN,6,6,2018
+11,4650.0,1500.0,3.1,4.0,3.0,19 Alviso Ct,Pacifica,CA,NaN,6,6,2018
+13,2975.0,900.0,3.3055555555555554,2.0,1.0,683 Lockhaven Dr,Pacifica,CA,NaN,6,6,2018
+14,3950.0,1380.0,2.86231884057971,3.0,2.0,Hiawatha Ave,Pacifica,CA,NaN,6,6,2018
+15,4495.0,1080.0,4.162037037037037,3.0,2.0,352 Monterey Rd,Pacifica,CA,NaN,6,6,2018
+3,2840.0,800.0,3.55,2.0,1.0,455 Esplanade Ave,Pacifica,CA,NaN,6,6,2018
+6,750000.0,1220.0,614.7540983606557,3.0,2.0,524 Inverness Dr,Pacifica,CA,Century 21 Real Estate Alliance,6,6,2018
+0,5990.0,2216.0,2.703068592057762,3.0,2.0,7996 Sunderland Dr,Cupertino,CA,NaN,6,6,2018
+1,3300.0,1216.0,2.713815789473684,2.0,1.5,10429 Mary Ave,Cupertino,CA,NaN,6,6,2018
+2,2950.0,860.0,3.4302325581395348,1.0,1.0,20488 Stevens Creek Blvd APT 1517,Cupertino,CA,NaN,6,6,2018
+8,2500.0,972.0,2.57201646090535,2.0,1.5,1716 Noranda Dr APT 1,Sunnyvale,CA,NaN,6,6,2018
+11,4745.0,1780.0,2.6657303370786516,3.0,2.0,10353 Alpine Dr,Cupertino,CA,NaN,6,6,2018
+12,5300.0,1799.0,2.946081156197888,3.0,2.0,10211 Phar Lap Dr,Cupertino,CA,NaN,6,6,2018
+15,3100.0,1100.0,2.8181818181818183,2.0,1.5,10261 Rancho Pl # B,Cupertino,CA,NaN,6,6,2018
+16,4500.0,1852.0,2.429805615550756,4.0,2.5,20719 Garden Manor Ct,Cupertino,CA,NaN,6,6,2018
+17,4200.0,1570.0,2.6751592356687897,3.0,2.0,1772 Laurentian Way,Sunnyvale,CA,NaN,6,6,2018
+18,4000.0,1540.0,2.5974025974025974,3.0,2.5,19462 Rosemarie Pl,Cupertino,CA,NaN,6,6,2018
+19,2900.0,850.0,3.411764705882353,1.0,1.0,Stevens Creek Blvd,Cupertino,CA,NaN,6,6,2018
+20,8168.0,3400.0,2.4023529411764706,5.0,3.5,21900 Alcazar Ave,Cupertino,CA,NaN,6,6,2018
+21,4400.0,1420.0,3.0985915492957745,3.0,2.0,1506 Primrose Way,Cupertino,CA,NaN,6,6,2018
+22,4300.0,1460.0,2.9452054794520546,3.0,2.0,1195 Crestline Dr,Cupertino,CA,NaN,6,6,2018
+0,4000.0,1392.0,2.8735632183908044,3.0,2.0,10289 Richwood Dr,Cupertino,CA,NaN,6,6,2018
+1,3400.0,1060.0,3.207547169811321,2.0,2.0,20197 Northbrook Sq,Cupertino,CA,NaN,6,6,2018
+2,3850.0,1100.0,3.5,2.0,2.0,22801 Longdown Rd,Cupertino,CA,NaN,6,6,2018
+3,6200.0,1980.0,3.1313131313131315,4.0,3.0,Grenola Dr,Cupertino,CA,NaN,6,6,2018
+4,5250.0,2002.0,2.6223776223776225,4.0,3.5,10281 Torre Ave UNIT 804,Cupertino,CA,NaN,6,6,2018
+5,1800.0,600.0,3.0,1.0,1.0,Bubb Rd,Cupertino,CA,NaN,6,6,2018
+6,3495.0,1250.0,2.796,2.0,2.0,10465 Merriman Rd,Cupertino,CA,NaN,6,6,2018
+7,6800.0,3012.0,2.257636122177955,5.0,3.5,21730 Alcazar Ave,Cupertino,CA,NaN,6,6,2018
+8,3599.0,1486.0,2.421938088829071,3.0,2.0,Moretti Dr,Cupertino,CA,NaN,6,6,2018
+10,3950.0,1628.0,2.4262899262899262,3.0,2.0,10454 Merriman Rd,Cupertino,CA,NaN,6,6,2018
+14,1900.0,340.0,5.588235294117647,1.0,1.0,Oakview Ln,Cupertino,CA,NaN,6,6,2018
+16,7500.0,3463.0,2.165752237943979,5.0,5.5,22299 Janice Ave,Cupertino,CA,NaN,6,6,2018
+20,4990.0,2494.0,2.000801924619086,4.0,4.0,20335 Via Volante,Cupertino,CA,NaN,6,6,2018
+21,3950.0,1598.0,2.471839799749687,3.0,2.5,Holly Tree Ln,Cupertino,CA,NaN,6,6,2018
+0,3000.0,934.0,3.2119914346895073,2.0,1.0,20800 Valley Green Dr,Cupertino,CA,NaN,6,6,2018
+1,3650.0,1240.0,2.943548387096774,2.0,2.0,20500 Town Center Ln,Cupertino,CA,NaN,6,6,2018
+2,5500.0,2334.0,2.3564695801199655,4.0,3.0,11872 Shasta Spring Ct,Cupertino,CA,NaN,6,6,2018
+3,5200.0,1939.0,2.6817947395564725,3.0,3.0,11561 7 Springs Dr,Cupertino,CA,NaN,6,6,2018
+5,4365.0,1500.0,2.91,3.0,2.0,22722 Medina Ln,Cupertino,CA,NaN,6,6,2018
+6,189.0,1420.0,0.13309859154929576,3.0,2.0,10688 Farallone Dr,Cupertino,CA,NaN,6,6,2018
+7,3400.0,1017.0,3.343166175024582,2.0,2.0,10115 Swan Oak Ln,Cupertino,CA,NaN,6,6,2018
+9,5100.0,1602.0,3.183520599250936,4.0,2.0,8059 Presidio Dr,Cupertino,CA,NaN,6,6,2018
+10,3700.0,1158.0,3.1951640759930915,2.0,2.0,19503 Stevens Creek Blvd,Cupertino,CA,NaN,6,6,2018
+11,5300.0,2500.0,2.12,4.0,2.5,10196 English Oak Way,Cupertino,CA,NaN,6,6,2018
+12,4300.0,1586.0,2.711223203026482,3.0,2.0,10321 Bret Ave,Cupertino,CA,NaN,6,6,2018
+13,3100.0,1200.0,2.5833333333333335,1.0,1.5,10745 N De Anza Blvd UNIT 105,Cupertino,CA,NaN,6,6,2018
+14,4800.0,1640.0,2.926829268292683,3.0,2.5,20286 Pacifica Dr,Cupertino,CA,NaN,6,6,2018
+16,2600.0,800.0,3.25,2.0,1.0,22000 Mcclellan Rd,Cupertino,CA,NaN,6,6,2018
+19,3500.0,1100.0,3.1818181818181817,2.0,2.0,10192 Firwood Dr,Cupertino,CA,NaN,6,6,2018
+0,1476360.0,1773.0,832.6903553299493,3.0,4.0,910 E Duane Ave # 3,Sunnyvale,CA,Taylor Morrison Services Inc,6,6,2018
+1,2495.0,708.0,3.524011299435028,2.0,1.0,820 Lewis Ave,Sunnyvale,CA,NaN,6,6,2018
+2,1950.0,600.0,3.25,1.0,1.0,1574 Albatross Dr APT 1,Sunnyvale,CA,NaN,6,6,2018
+3,4300.0,1402.0,3.067047075606277,3.0,2.0,1151 Parkington Ave,Sunnyvale,CA,NaN,6,6,2018
+5,4200.0,1728.0,2.4305555555555554,3.0,2.0,710 Santa Rosa St,Sunnyvale,CA,NaN,6,6,2018
+6,4300.0,1459.0,2.9472241261137766,3.0,2.5,Paria Ter,Sunnyvale,CA,NaN,6,6,2018
+9,2575.0,900.0,2.861111111111111,2.0,1.0,1262 W Mc Kinley Ave APT 6,Sunnyvale,CA,NaN,6,6,2018
+14,3600.0,1238.0,2.9079159935379644,3.0,2.0,1239 Henderson Ave APT S,Sunnyvale,CA,NaN,6,6,2018
+0,4500.0,1923.0,2.3400936037441498,3.0,2.5,1172 La Rochelle Ter,Sunnyvale,CA,NaN,6,6,2018
+1,2395.0,910.0,2.631868131868132,2.0,1.0,616 San Luisito Way,Sunnyvale,CA,NaN,6,6,2018
+2,3895.0,1154.0,3.3752166377816293,3.0,1.0,895 Lois Ave,Sunnyvale,CA,NaN,6,6,2018
+3,2490.0,822.0,3.0291970802919708,1.0,1.0,999 W Evelyn Ter APT 72,Sunnyvale,CA,NaN,6,6,2018
+4,3995.0,1311.0,3.0472921434019833,3.0,2.0,884 Azure St,Sunnyvale,CA,NaN,6,6,2018
+5,3800.0,1474.0,2.5780189959294435,3.0,2.0,345 Orchard Ave,Sunnyvale,CA,NaN,6,6,2018
+10,2550.0,800.0,3.1875,2.0,2.0,559 Firloch Ave APT 4,Sunnyvale,CA,NaN,6,6,2018
+11,4200.0,1397.0,3.006442376521117,3.0,2.0,1393 Floyd Ave,Sunnyvale,CA,NaN,6,6,2018
+12,4500.0,1808.0,2.4889380530973453,4.0,2.0,755 Lois Ave,Sunnyvale,CA,NaN,6,6,2018
+13,2895.0,950.0,3.0473684210526315,2.0,2.0,Brahms Way,Sunnyvale,CA,NaN,6,6,2018
+14,3795.0,1300.0,2.919230769230769,3.0,2.0,384 S Bernardo Ave,Sunnyvale,CA,NaN,6,6,2018
+15,3900.0,1534.0,2.542372881355932,2.0,2.5,1645 New Brunswick Ave,Sunnyvale,CA,NaN,6,6,2018
+16,2700.0,590.0,4.576271186440678,1.0,1.0,621 E El Camino Real,Sunnyvale,CA,NaN,6,6,2018
+17,4800.0,2200.0,2.1818181818181817,2.0,2.5,986 La Mesa Ter UNIT A,Sunnyvale,CA,NaN,6,6,2018
+18,3400.0,1136.0,2.992957746478873,2.0,1.5,125 Connemara Way APT 61,Sunnyvale,CA,NaN,6,6,2018
+19,3700.0,1665.0,2.2222222222222223,3.0,2.5,998 Michelangelo Dr,Sunnyvale,CA,NaN,6,6,2018
+3,2200.0,700.0,3.142857142857143,1.0,1.0,1590 Ontario Dr APT 2,Sunnyvale,CA,NaN,6,6,2018
+4,2195.0,820.0,2.676829268292683,1.0,1.0,364 W Olive Ave,Sunnyvale,CA,NaN,6,6,2018
+7,4200.0,1405.0,2.9893238434163703,3.0,2.0,986 Bidwell Ave,Sunnyvale,CA,NaN,6,6,2018
+8,2400.0,850.0,2.823529411764706,2.0,1.0,1215 Henderson Ave APT 3,Sunnyvale,CA,NaN,6,6,2018
+9,3295.0,1500.0,2.1966666666666668,3.0,2.0,651 Belladonna Ct APT 1,Sunnyvale,CA,NaN,6,6,2018
+10,3800.0,1430.0,2.6573426573426575,3.0,2.0,716 Lakechime Dr,Sunnyvale,CA,NaN,6,6,2018
+11,2195.0,500.0,4.39,1.0,1.0,324 Central Ave,Sunnyvale,CA,NaN,6,6,2018
+13,2350.0,750.0,3.1333333333333333,2.0,1.0,665 Johanna Ave APT 1,Sunnyvale,CA,NaN,6,6,2018
+14,4300.0,1568.0,2.74234693877551,3.0,2.5,520 S Cascade Ter,Sunnyvale,CA,NaN,6,6,2018
+15,2500.0,750.0,3.3333333333333335,2.0,1.0,639 W Homestead Rd # 6251949,Sunnyvale,CA,NaN,6,6,2018
+16,3850.0,1631.0,2.3605150214592276,4.0,2.0,1280 Pecos Way,Sunnyvale,CA,NaN,6,6,2018
+0,3850.0,1360.0,2.8308823529411766,3.0,2.0,2385 Kay Dr,Santa Clara,CA,NaN,6,6,2018
+1,1200000.0,1364.0,879.7653958944281,4.0,2.0,666 Malarin Ave,Santa Clara,CA,My Home Realty,6,6,2018
+2,4300.0,1240.0,3.467741935483871,3.0,2.0,3533 Machado Ave,Santa Clara,CA,NaN,6,6,2018
+3,2195.0,650.0,3.376923076923077,1.0,1.0,1 bed,650 sqft,$2,NaN,6,6,2018
+4,3695.0,1220.0,3.028688524590164,4.0,2.0,4676 Armour Dr,Santa Clara,CA,NaN,6,6,2018
+6,2800.0,1200.0,2.3333333333333335,2.0,1.5,2 bed,1.5 bath,1200sqft,NaN,6,6,2018
+7,2400.0,1000.0,2.4,2.0,1.5,1321 Jonathan St APT 4,Santa Clara,CA,NaN,6,6,2018
+10,2000.0,980.0,2.0408163265306123,1.0,1.0,Homestead Rd,Santa Clara,CA,NaN,6,6,2018
+11,3950.0,1843.0,2.1432447097124254,3.0,3.5,1655 Agnew Rd UNIT 5,Santa Clara,CA,NaN,6,6,2018
+14,3400.0,1280.0,2.65625,2.0,2.0,3901 Lick Mill Blvd APT 336,Santa Clara,CA,NaN,6,6,2018
+15,1650.0,675.0,2.4444444444444446,1.0,1.0,1656 Newhall St APT 5,Santa Clara,CA,NaN,6,6,2018
+16,4095.0,1512.0,2.7083333333333335,3.0,2.0,590 Pomeroy Ave,Santa Clara,CA,NaN,6,6,2018
+1,2880.0,930.0,3.096774193548387,2.0,2.0,Warren Dr,Santa Clara,CA,NaN,6,6,2018
+2,3300.0,1779.0,1.854974704890388,3.0,2.5,3575 Lehigh Dr APT 2,Santa Clara,CA,NaN,6,6,2018
+3,4250.0,1415.0,3.0035335689045937,3.0,2.0,635 Wilson Ct,Santa Clara,CA,NaN,6,6,2018
+4,2895.0,1100.0,2.631818181818182,2.0,1.5,4932 Plaza Escuela,Santa Clara,CA,NaN,6,6,2018
+8,2600.0,628.0,4.140127388535032,1.0,1.0,3043 Fresno St,Santa Clara,CA,NaN,6,6,2018
+9,4450.0,1400.0,3.1785714285714284,3.0,2.5,3033 Fresno St,Santa Clara,CA,NaN,6,6,2018
+10,2550.0,650.0,3.923076923076923,1.0,1.0,Franck Ave,Santa Clara,CA,NaN,6,6,2018
+11,3900.0,1779.0,2.1922428330522767,3.0,2.5,3575 Lehigh Dr,Santa Clara,CA,NaN,6,6,2018
+13,3900.0,1845.0,2.113821138211382,3.0,2.5,1312 Casa Ct,Santa Clara,CA,NaN,6,6,2018
+14,3100.0,1270.0,2.440944881889764,3.0,2.0,3501 Granada Ave,Santa Clara,CA,NaN,6,6,2018
+16,2800.0,882.0,3.1746031746031744,2.0,1.0,645 Main St,Santa Clara,CA,NaN,6,6,2018
+17,2600.0,960.0,2.7083333333333335,3.0,1.0,866 Gallatin Dr,Santa Clara,CA,NaN,6,6,2018
+18,4350.0,1860.0,2.338709677419355,3.0,3.5,1580 Shore Pl UNIT 6,Santa Clara,CA,NaN,6,6,2018
+19,3700.0,1400.0,2.642857142857143,3.0,2.5,4296 Dry Bed Ct,Santa Clara,CA,NaN,6,6,2018
+0,4000.0,1789.0,2.2358859698155396,3.0,2.5,1214 Maryann Dr,Santa Clara,CA,NaN,6,6,2018
+1,3995.0,1600.0,2.496875,3.0,2.0,421 Greenwood Dr,Santa Clara,CA,NaN,6,6,2018
+2,4300.0,2086.0,2.0613614573346117,4.0,2.5,2210 Duvall Ct,Santa Clara,CA,NaN,6,6,2018
+3,2650.0,1137.0,2.330694810905893,2.0,2.0,121 Buckingham Dr,Santa Clara,CA,NaN,6,6,2018
+4,5000.0,2181.0,2.2925263640531868,4.0,3.0,496 Birch Way,Santa Clara,CA,NaN,6,6,2018
+5,1850.0,465.0,3.978494623655914,1.0,1.0,4440 Bassett St,Santa Clara,CA,NaN,6,6,2018
+6,3725.0,1254.0,2.970494417862839,3.0,2.0,2805 Ruth Ct,Santa Clara,CA,NaN,6,6,2018
+7,2350.0,740.0,3.175675675675676,2.0,1.0,2850 Malabar Ave APT 2,Santa Clara,CA,NaN,6,6,2018
+8,6500.0,3073.0,2.1151968760169217,4.0,3.5,1044 Garrity Way,Santa Clara,CA,NaN,6,6,2018
+9,2700.0,712.0,3.792134831460674,2.0,1.0,2601 Cortez Dr UNIT 5102,Santa Clara,CA,NaN,6,6,2018
+10,3850.0,1650.0,2.3333333333333335,3.0,2.0,335 Pineview Dr,Santa Clara,CA,NaN,6,6,2018
+14,3995.0,1195.0,3.3430962343096233,3.0,1.0,355 Concannon Ct,Santa Clara,CA,NaN,6,6,2018
+15,1800.0,600.0,3.0,1.0,1.0,1819 Joan Way APT 6,Santa Clara,CA,NaN,6,6,2018
+19,3500.0,1092.0,3.2051282051282053,2.0,2.0,2621 S Park Ln,Santa Clara,CA,NaN,6,6,2018
+20,4295.0,1583.0,2.713202779532533,3.0,3.5,1927 Benton St,Santa Clara,CA,NaN,6,6,2018
+21,4800.0,1723.0,2.7858386535113175,3.0,3.5,2986 Via Torino,Santa Clara,CA,NaN,6,6,2018
